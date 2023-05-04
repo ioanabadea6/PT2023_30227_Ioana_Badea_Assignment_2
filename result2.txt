@@ -1,0 +1,1723 @@
+
+Waiting clients:
+
+Average waitingTime=NaN
+Average serviceTime=NaN
+PeakHour=0
+
+Current time: 1
+Waiting clients:
+ID: 27; ArrivalTime: 2; ServiceTime: 5
+ID: 15; ArrivalTime: 3; ServiceTime: 6
+ID: 65; ArrivalTime: 3; ServiceTime: 6
+ID: 96; ArrivalTime: 7; ServiceTime: 7
+ID: 1; ArrivalTime: 7; ServiceTime: 3
+ID: 16; ArrivalTime: 8; ServiceTime: 6
+ID: 45; ArrivalTime: 8; ServiceTime: 4
+ID: 40; ArrivalTime: 8; ServiceTime: 3
+ID: 91; ArrivalTime: 9; ServiceTime: 1
+ID: 65; ArrivalTime: 9; ServiceTime: 7
+ID: 82; ArrivalTime: 9; ServiceTime: 2
+ID: 15; ArrivalTime: 9; ServiceTime: 3
+ID: 52; ArrivalTime: 10; ServiceTime: 2
+ID: 85; ArrivalTime: 10; ServiceTime: 2
+ID: 42; ArrivalTime: 10; ServiceTime: 6
+ID: 15; ArrivalTime: 11; ServiceTime: 6
+ID: 19; ArrivalTime: 12; ServiceTime: 3
+ID: 58; ArrivalTime: 13; ServiceTime: 6
+ID: 44; ArrivalTime: 14; ServiceTime: 1
+ID: 78; ArrivalTime: 14; ServiceTime: 3
+ID: 57; ArrivalTime: 16; ServiceTime: 7
+ID: 12; ArrivalTime: 16; ServiceTime: 3
+ID: 28; ArrivalTime: 17; ServiceTime: 4
+ID: 51; ArrivalTime: 17; ServiceTime: 4
+ID: 55; ArrivalTime: 20; ServiceTime: 3
+ID: 65; ArrivalTime: 21; ServiceTime: 4
+ID: 44; ArrivalTime: 21; ServiceTime: 1
+ID: 36; ArrivalTime: 21; ServiceTime: 7
+ID: 84; ArrivalTime: 22; ServiceTime: 1
+ID: 32; ArrivalTime: 22; ServiceTime: 2
+ID: 48; ArrivalTime: 23; ServiceTime: 1
+ID: 60; ArrivalTime: 24; ServiceTime: 4
+ID: 15; ArrivalTime: 25; ServiceTime: 3
+ID: 57; ArrivalTime: 28; ServiceTime: 3
+ID: 96; ArrivalTime: 29; ServiceTime: 5
+ID: 68; ArrivalTime: 32; ServiceTime: 3
+ID: 6; ArrivalTime: 32; ServiceTime: 1
+ID: 68; ArrivalTime: 33; ServiceTime: 7
+ID: 16; ArrivalTime: 36; ServiceTime: 4
+ID: 40; ArrivalTime: 36; ServiceTime: 6
+ID: 90; ArrivalTime: 36; ServiceTime: 6
+ID: 86; ArrivalTime: 37; ServiceTime: 6
+ID: 33; ArrivalTime: 38; ServiceTime: 6
+ID: 68; ArrivalTime: 38; ServiceTime: 3
+ID: 47; ArrivalTime: 38; ServiceTime: 2
+ID: 71; ArrivalTime: 38; ServiceTime: 7
+ID: 24; ArrivalTime: 38; ServiceTime: 5
+ID: 18; ArrivalTime: 38; ServiceTime: 6
+ID: 14; ArrivalTime: 38; ServiceTime: 2
+ID: 44; ArrivalTime: 40; ServiceTime: 2
+Queue0:  closed
+Queue1:  closed
+Queue2:  closed
+Queue3:  closed
+Queue4:  closed
+
+Current time: 2
+Waiting clients:
+ID: 15; ArrivalTime: 3; ServiceTime: 6
+ID: 65; ArrivalTime: 3; ServiceTime: 6
+ID: 96; ArrivalTime: 7; ServiceTime: 7
+ID: 1; ArrivalTime: 7; ServiceTime: 3
+ID: 16; ArrivalTime: 8; ServiceTime: 6
+ID: 45; ArrivalTime: 8; ServiceTime: 4
+ID: 40; ArrivalTime: 8; ServiceTime: 3
+ID: 91; ArrivalTime: 9; ServiceTime: 1
+ID: 65; ArrivalTime: 9; ServiceTime: 7
+ID: 82; ArrivalTime: 9; ServiceTime: 2
+ID: 15; ArrivalTime: 9; ServiceTime: 3
+ID: 52; ArrivalTime: 10; ServiceTime: 2
+ID: 85; ArrivalTime: 10; ServiceTime: 2
+ID: 42; ArrivalTime: 10; ServiceTime: 6
+ID: 15; ArrivalTime: 11; ServiceTime: 6
+ID: 19; ArrivalTime: 12; ServiceTime: 3
+ID: 58; ArrivalTime: 13; ServiceTime: 6
+ID: 44; ArrivalTime: 14; ServiceTime: 1
+ID: 78; ArrivalTime: 14; ServiceTime: 3
+ID: 57; ArrivalTime: 16; ServiceTime: 7
+ID: 12; ArrivalTime: 16; ServiceTime: 3
+ID: 28; ArrivalTime: 17; ServiceTime: 4
+ID: 51; ArrivalTime: 17; ServiceTime: 4
+ID: 55; ArrivalTime: 20; ServiceTime: 3
+ID: 65; ArrivalTime: 21; ServiceTime: 4
+ID: 44; ArrivalTime: 21; ServiceTime: 1
+ID: 36; ArrivalTime: 21; ServiceTime: 7
+ID: 84; ArrivalTime: 22; ServiceTime: 1
+ID: 32; ArrivalTime: 22; ServiceTime: 2
+ID: 48; ArrivalTime: 23; ServiceTime: 1
+ID: 60; ArrivalTime: 24; ServiceTime: 4
+ID: 15; ArrivalTime: 25; ServiceTime: 3
+ID: 57; ArrivalTime: 28; ServiceTime: 3
+ID: 96; ArrivalTime: 29; ServiceTime: 5
+ID: 68; ArrivalTime: 32; ServiceTime: 3
+ID: 6; ArrivalTime: 32; ServiceTime: 1
+ID: 68; ArrivalTime: 33; ServiceTime: 7
+ID: 16; ArrivalTime: 36; ServiceTime: 4
+ID: 40; ArrivalTime: 36; ServiceTime: 6
+ID: 90; ArrivalTime: 36; ServiceTime: 6
+ID: 86; ArrivalTime: 37; ServiceTime: 6
+ID: 33; ArrivalTime: 38; ServiceTime: 6
+ID: 68; ArrivalTime: 38; ServiceTime: 3
+ID: 47; ArrivalTime: 38; ServiceTime: 2
+ID: 71; ArrivalTime: 38; ServiceTime: 7
+ID: 24; ArrivalTime: 38; ServiceTime: 5
+ID: 18; ArrivalTime: 38; ServiceTime: 6
+ID: 14; ArrivalTime: 38; ServiceTime: 2
+ID: 44; ArrivalTime: 40; ServiceTime: 2
+Queue0: [ID: 27; ArrivalTime: 2; ServiceTime: 5
+]
+Queue1:  closed
+Queue2:  closed
+Queue3:  closed
+Queue4:  closed
+
+Current time: 3
+Waiting clients:
+ID: 96; ArrivalTime: 7; ServiceTime: 7
+ID: 1; ArrivalTime: 7; ServiceTime: 3
+ID: 16; ArrivalTime: 8; ServiceTime: 6
+ID: 45; ArrivalTime: 8; ServiceTime: 4
+ID: 40; ArrivalTime: 8; ServiceTime: 3
+ID: 91; ArrivalTime: 9; ServiceTime: 1
+ID: 65; ArrivalTime: 9; ServiceTime: 7
+ID: 82; ArrivalTime: 9; ServiceTime: 2
+ID: 15; ArrivalTime: 9; ServiceTime: 3
+ID: 52; ArrivalTime: 10; ServiceTime: 2
+ID: 85; ArrivalTime: 10; ServiceTime: 2
+ID: 42; ArrivalTime: 10; ServiceTime: 6
+ID: 15; ArrivalTime: 11; ServiceTime: 6
+ID: 19; ArrivalTime: 12; ServiceTime: 3
+ID: 58; ArrivalTime: 13; ServiceTime: 6
+ID: 44; ArrivalTime: 14; ServiceTime: 1
+ID: 78; ArrivalTime: 14; ServiceTime: 3
+ID: 57; ArrivalTime: 16; ServiceTime: 7
+ID: 12; ArrivalTime: 16; ServiceTime: 3
+ID: 28; ArrivalTime: 17; ServiceTime: 4
+ID: 51; ArrivalTime: 17; ServiceTime: 4
+ID: 55; ArrivalTime: 20; ServiceTime: 3
+ID: 65; ArrivalTime: 21; ServiceTime: 4
+ID: 44; ArrivalTime: 21; ServiceTime: 1
+ID: 36; ArrivalTime: 21; ServiceTime: 7
+ID: 84; ArrivalTime: 22; ServiceTime: 1
+ID: 32; ArrivalTime: 22; ServiceTime: 2
+ID: 48; ArrivalTime: 23; ServiceTime: 1
+ID: 60; ArrivalTime: 24; ServiceTime: 4
+ID: 15; ArrivalTime: 25; ServiceTime: 3
+ID: 57; ArrivalTime: 28; ServiceTime: 3
+ID: 96; ArrivalTime: 29; ServiceTime: 5
+ID: 68; ArrivalTime: 32; ServiceTime: 3
+ID: 6; ArrivalTime: 32; ServiceTime: 1
+ID: 68; ArrivalTime: 33; ServiceTime: 7
+ID: 16; ArrivalTime: 36; ServiceTime: 4
+ID: 40; ArrivalTime: 36; ServiceTime: 6
+ID: 90; ArrivalTime: 36; ServiceTime: 6
+ID: 86; ArrivalTime: 37; ServiceTime: 6
+ID: 33; ArrivalTime: 38; ServiceTime: 6
+ID: 68; ArrivalTime: 38; ServiceTime: 3
+ID: 47; ArrivalTime: 38; ServiceTime: 2
+ID: 71; ArrivalTime: 38; ServiceTime: 7
+ID: 24; ArrivalTime: 38; ServiceTime: 5
+ID: 18; ArrivalTime: 38; ServiceTime: 6
+ID: 14; ArrivalTime: 38; ServiceTime: 2
+ID: 44; ArrivalTime: 40; ServiceTime: 2
+Queue0: [ID: 27; ArrivalTime: 2; ServiceTime: 4
+]
+Queue1: [ID: 15; ArrivalTime: 3; ServiceTime: 6
+]
+Queue2: [ID: 65; ArrivalTime: 3; ServiceTime: 6
+]
+Queue3:  closed
+Queue4:  closed
+
+Current time: 4
+Waiting clients:
+ID: 96; ArrivalTime: 7; ServiceTime: 7
+ID: 1; ArrivalTime: 7; ServiceTime: 3
+ID: 16; ArrivalTime: 8; ServiceTime: 6
+ID: 45; ArrivalTime: 8; ServiceTime: 4
+ID: 40; ArrivalTime: 8; ServiceTime: 3
+ID: 91; ArrivalTime: 9; ServiceTime: 1
+ID: 65; ArrivalTime: 9; ServiceTime: 7
+ID: 82; ArrivalTime: 9; ServiceTime: 2
+ID: 15; ArrivalTime: 9; ServiceTime: 3
+ID: 52; ArrivalTime: 10; ServiceTime: 2
+ID: 85; ArrivalTime: 10; ServiceTime: 2
+ID: 42; ArrivalTime: 10; ServiceTime: 6
+ID: 15; ArrivalTime: 11; ServiceTime: 6
+ID: 19; ArrivalTime: 12; ServiceTime: 3
+ID: 58; ArrivalTime: 13; ServiceTime: 6
+ID: 44; ArrivalTime: 14; ServiceTime: 1
+ID: 78; ArrivalTime: 14; ServiceTime: 3
+ID: 57; ArrivalTime: 16; ServiceTime: 7
+ID: 12; ArrivalTime: 16; ServiceTime: 3
+ID: 28; ArrivalTime: 17; ServiceTime: 4
+ID: 51; ArrivalTime: 17; ServiceTime: 4
+ID: 55; ArrivalTime: 20; ServiceTime: 3
+ID: 65; ArrivalTime: 21; ServiceTime: 4
+ID: 44; ArrivalTime: 21; ServiceTime: 1
+ID: 36; ArrivalTime: 21; ServiceTime: 7
+ID: 84; ArrivalTime: 22; ServiceTime: 1
+ID: 32; ArrivalTime: 22; ServiceTime: 2
+ID: 48; ArrivalTime: 23; ServiceTime: 1
+ID: 60; ArrivalTime: 24; ServiceTime: 4
+ID: 15; ArrivalTime: 25; ServiceTime: 3
+ID: 57; ArrivalTime: 28; ServiceTime: 3
+ID: 96; ArrivalTime: 29; ServiceTime: 5
+ID: 68; ArrivalTime: 32; ServiceTime: 3
+ID: 6; ArrivalTime: 32; ServiceTime: 1
+ID: 68; ArrivalTime: 33; ServiceTime: 7
+ID: 16; ArrivalTime: 36; ServiceTime: 4
+ID: 40; ArrivalTime: 36; ServiceTime: 6
+ID: 90; ArrivalTime: 36; ServiceTime: 6
+ID: 86; ArrivalTime: 37; ServiceTime: 6
+ID: 33; ArrivalTime: 38; ServiceTime: 6
+ID: 68; ArrivalTime: 38; ServiceTime: 3
+ID: 47; ArrivalTime: 38; ServiceTime: 2
+ID: 71; ArrivalTime: 38; ServiceTime: 7
+ID: 24; ArrivalTime: 38; ServiceTime: 5
+ID: 18; ArrivalTime: 38; ServiceTime: 6
+ID: 14; ArrivalTime: 38; ServiceTime: 2
+ID: 44; ArrivalTime: 40; ServiceTime: 2
+Queue0: [ID: 27; ArrivalTime: 2; ServiceTime: 3
+]
+Queue1: [ID: 15; ArrivalTime: 3; ServiceTime: 5
+]
+Queue2: [ID: 65; ArrivalTime: 3; ServiceTime: 5
+]
+Queue3:  closed
+Queue4:  closed
+
+Current time: 5
+Waiting clients:
+ID: 96; ArrivalTime: 7; ServiceTime: 7
+ID: 1; ArrivalTime: 7; ServiceTime: 3
+ID: 16; ArrivalTime: 8; ServiceTime: 6
+ID: 45; ArrivalTime: 8; ServiceTime: 4
+ID: 40; ArrivalTime: 8; ServiceTime: 3
+ID: 91; ArrivalTime: 9; ServiceTime: 1
+ID: 65; ArrivalTime: 9; ServiceTime: 7
+ID: 82; ArrivalTime: 9; ServiceTime: 2
+ID: 15; ArrivalTime: 9; ServiceTime: 3
+ID: 52; ArrivalTime: 10; ServiceTime: 2
+ID: 85; ArrivalTime: 10; ServiceTime: 2
+ID: 42; ArrivalTime: 10; ServiceTime: 6
+ID: 15; ArrivalTime: 11; ServiceTime: 6
+ID: 19; ArrivalTime: 12; ServiceTime: 3
+ID: 58; ArrivalTime: 13; ServiceTime: 6
+ID: 44; ArrivalTime: 14; ServiceTime: 1
+ID: 78; ArrivalTime: 14; ServiceTime: 3
+ID: 57; ArrivalTime: 16; ServiceTime: 7
+ID: 12; ArrivalTime: 16; ServiceTime: 3
+ID: 28; ArrivalTime: 17; ServiceTime: 4
+ID: 51; ArrivalTime: 17; ServiceTime: 4
+ID: 55; ArrivalTime: 20; ServiceTime: 3
+ID: 65; ArrivalTime: 21; ServiceTime: 4
+ID: 44; ArrivalTime: 21; ServiceTime: 1
+ID: 36; ArrivalTime: 21; ServiceTime: 7
+ID: 84; ArrivalTime: 22; ServiceTime: 1
+ID: 32; ArrivalTime: 22; ServiceTime: 2
+ID: 48; ArrivalTime: 23; ServiceTime: 1
+ID: 60; ArrivalTime: 24; ServiceTime: 4
+ID: 15; ArrivalTime: 25; ServiceTime: 3
+ID: 57; ArrivalTime: 28; ServiceTime: 3
+ID: 96; ArrivalTime: 29; ServiceTime: 5
+ID: 68; ArrivalTime: 32; ServiceTime: 3
+ID: 6; ArrivalTime: 32; ServiceTime: 1
+ID: 68; ArrivalTime: 33; ServiceTime: 7
+ID: 16; ArrivalTime: 36; ServiceTime: 4
+ID: 40; ArrivalTime: 36; ServiceTime: 6
+ID: 90; ArrivalTime: 36; ServiceTime: 6
+ID: 86; ArrivalTime: 37; ServiceTime: 6
+ID: 33; ArrivalTime: 38; ServiceTime: 6
+ID: 68; ArrivalTime: 38; ServiceTime: 3
+ID: 47; ArrivalTime: 38; ServiceTime: 2
+ID: 71; ArrivalTime: 38; ServiceTime: 7
+ID: 24; ArrivalTime: 38; ServiceTime: 5
+ID: 18; ArrivalTime: 38; ServiceTime: 6
+ID: 14; ArrivalTime: 38; ServiceTime: 2
+ID: 44; ArrivalTime: 40; ServiceTime: 2
+Queue0: [ID: 27; ArrivalTime: 2; ServiceTime: 2
+]
+Queue1: [ID: 15; ArrivalTime: 3; ServiceTime: 4
+]
+Queue2: [ID: 65; ArrivalTime: 3; ServiceTime: 4
+]
+Queue3:  closed
+Queue4:  closed
+
+Current time: 6
+Waiting clients:
+ID: 96; ArrivalTime: 7; ServiceTime: 7
+ID: 1; ArrivalTime: 7; ServiceTime: 3
+ID: 16; ArrivalTime: 8; ServiceTime: 6
+ID: 45; ArrivalTime: 8; ServiceTime: 4
+ID: 40; ArrivalTime: 8; ServiceTime: 3
+ID: 91; ArrivalTime: 9; ServiceTime: 1
+ID: 65; ArrivalTime: 9; ServiceTime: 7
+ID: 82; ArrivalTime: 9; ServiceTime: 2
+ID: 15; ArrivalTime: 9; ServiceTime: 3
+ID: 52; ArrivalTime: 10; ServiceTime: 2
+ID: 85; ArrivalTime: 10; ServiceTime: 2
+ID: 42; ArrivalTime: 10; ServiceTime: 6
+ID: 15; ArrivalTime: 11; ServiceTime: 6
+ID: 19; ArrivalTime: 12; ServiceTime: 3
+ID: 58; ArrivalTime: 13; ServiceTime: 6
+ID: 44; ArrivalTime: 14; ServiceTime: 1
+ID: 78; ArrivalTime: 14; ServiceTime: 3
+ID: 57; ArrivalTime: 16; ServiceTime: 7
+ID: 12; ArrivalTime: 16; ServiceTime: 3
+ID: 28; ArrivalTime: 17; ServiceTime: 4
+ID: 51; ArrivalTime: 17; ServiceTime: 4
+ID: 55; ArrivalTime: 20; ServiceTime: 3
+ID: 65; ArrivalTime: 21; ServiceTime: 4
+ID: 44; ArrivalTime: 21; ServiceTime: 1
+ID: 36; ArrivalTime: 21; ServiceTime: 7
+ID: 84; ArrivalTime: 22; ServiceTime: 1
+ID: 32; ArrivalTime: 22; ServiceTime: 2
+ID: 48; ArrivalTime: 23; ServiceTime: 1
+ID: 60; ArrivalTime: 24; ServiceTime: 4
+ID: 15; ArrivalTime: 25; ServiceTime: 3
+ID: 57; ArrivalTime: 28; ServiceTime: 3
+ID: 96; ArrivalTime: 29; ServiceTime: 5
+ID: 68; ArrivalTime: 32; ServiceTime: 3
+ID: 6; ArrivalTime: 32; ServiceTime: 1
+ID: 68; ArrivalTime: 33; ServiceTime: 7
+ID: 16; ArrivalTime: 36; ServiceTime: 4
+ID: 40; ArrivalTime: 36; ServiceTime: 6
+ID: 90; ArrivalTime: 36; ServiceTime: 6
+ID: 86; ArrivalTime: 37; ServiceTime: 6
+ID: 33; ArrivalTime: 38; ServiceTime: 6
+ID: 68; ArrivalTime: 38; ServiceTime: 3
+ID: 47; ArrivalTime: 38; ServiceTime: 2
+ID: 71; ArrivalTime: 38; ServiceTime: 7
+ID: 24; ArrivalTime: 38; ServiceTime: 5
+ID: 18; ArrivalTime: 38; ServiceTime: 6
+ID: 14; ArrivalTime: 38; ServiceTime: 2
+ID: 44; ArrivalTime: 40; ServiceTime: 2
+Queue0: [ID: 27; ArrivalTime: 2; ServiceTime: 1
+]
+Queue1: [ID: 15; ArrivalTime: 3; ServiceTime: 3
+]
+Queue2: [ID: 65; ArrivalTime: 3; ServiceTime: 3
+]
+Queue3:  closed
+Queue4:  closed
+
+Current time: 7
+Waiting clients:
+ID: 16; ArrivalTime: 8; ServiceTime: 6
+ID: 45; ArrivalTime: 8; ServiceTime: 4
+ID: 40; ArrivalTime: 8; ServiceTime: 3
+ID: 91; ArrivalTime: 9; ServiceTime: 1
+ID: 65; ArrivalTime: 9; ServiceTime: 7
+ID: 82; ArrivalTime: 9; ServiceTime: 2
+ID: 15; ArrivalTime: 9; ServiceTime: 3
+ID: 52; ArrivalTime: 10; ServiceTime: 2
+ID: 85; ArrivalTime: 10; ServiceTime: 2
+ID: 42; ArrivalTime: 10; ServiceTime: 6
+ID: 15; ArrivalTime: 11; ServiceTime: 6
+ID: 19; ArrivalTime: 12; ServiceTime: 3
+ID: 58; ArrivalTime: 13; ServiceTime: 6
+ID: 44; ArrivalTime: 14; ServiceTime: 1
+ID: 78; ArrivalTime: 14; ServiceTime: 3
+ID: 57; ArrivalTime: 16; ServiceTime: 7
+ID: 12; ArrivalTime: 16; ServiceTime: 3
+ID: 28; ArrivalTime: 17; ServiceTime: 4
+ID: 51; ArrivalTime: 17; ServiceTime: 4
+ID: 55; ArrivalTime: 20; ServiceTime: 3
+ID: 65; ArrivalTime: 21; ServiceTime: 4
+ID: 44; ArrivalTime: 21; ServiceTime: 1
+ID: 36; ArrivalTime: 21; ServiceTime: 7
+ID: 84; ArrivalTime: 22; ServiceTime: 1
+ID: 32; ArrivalTime: 22; ServiceTime: 2
+ID: 48; ArrivalTime: 23; ServiceTime: 1
+ID: 60; ArrivalTime: 24; ServiceTime: 4
+ID: 15; ArrivalTime: 25; ServiceTime: 3
+ID: 57; ArrivalTime: 28; ServiceTime: 3
+ID: 96; ArrivalTime: 29; ServiceTime: 5
+ID: 68; ArrivalTime: 32; ServiceTime: 3
+ID: 6; ArrivalTime: 32; ServiceTime: 1
+ID: 68; ArrivalTime: 33; ServiceTime: 7
+ID: 16; ArrivalTime: 36; ServiceTime: 4
+ID: 40; ArrivalTime: 36; ServiceTime: 6
+ID: 90; ArrivalTime: 36; ServiceTime: 6
+ID: 86; ArrivalTime: 37; ServiceTime: 6
+ID: 33; ArrivalTime: 38; ServiceTime: 6
+ID: 68; ArrivalTime: 38; ServiceTime: 3
+ID: 47; ArrivalTime: 38; ServiceTime: 2
+ID: 71; ArrivalTime: 38; ServiceTime: 7
+ID: 24; ArrivalTime: 38; ServiceTime: 5
+ID: 18; ArrivalTime: 38; ServiceTime: 6
+ID: 14; ArrivalTime: 38; ServiceTime: 2
+ID: 44; ArrivalTime: 40; ServiceTime: 2
+Queue0:  closed
+Queue1: [ID: 15; ArrivalTime: 3; ServiceTime: 2
+]
+Queue2: [ID: 65; ArrivalTime: 3; ServiceTime: 2
+]
+Queue3: [ID: 96; ArrivalTime: 7; ServiceTime: 7
+]
+Queue4: [ID: 1; ArrivalTime: 7; ServiceTime: 3
+]
+
+Current time: 8
+Waiting clients:
+ID: 91; ArrivalTime: 9; ServiceTime: 1
+ID: 65; ArrivalTime: 9; ServiceTime: 7
+ID: 82; ArrivalTime: 9; ServiceTime: 2
+ID: 15; ArrivalTime: 9; ServiceTime: 3
+ID: 52; ArrivalTime: 10; ServiceTime: 2
+ID: 85; ArrivalTime: 10; ServiceTime: 2
+ID: 42; ArrivalTime: 10; ServiceTime: 6
+ID: 15; ArrivalTime: 11; ServiceTime: 6
+ID: 19; ArrivalTime: 12; ServiceTime: 3
+ID: 58; ArrivalTime: 13; ServiceTime: 6
+ID: 44; ArrivalTime: 14; ServiceTime: 1
+ID: 78; ArrivalTime: 14; ServiceTime: 3
+ID: 57; ArrivalTime: 16; ServiceTime: 7
+ID: 12; ArrivalTime: 16; ServiceTime: 3
+ID: 28; ArrivalTime: 17; ServiceTime: 4
+ID: 51; ArrivalTime: 17; ServiceTime: 4
+ID: 55; ArrivalTime: 20; ServiceTime: 3
+ID: 65; ArrivalTime: 21; ServiceTime: 4
+ID: 44; ArrivalTime: 21; ServiceTime: 1
+ID: 36; ArrivalTime: 21; ServiceTime: 7
+ID: 84; ArrivalTime: 22; ServiceTime: 1
+ID: 32; ArrivalTime: 22; ServiceTime: 2
+ID: 48; ArrivalTime: 23; ServiceTime: 1
+ID: 60; ArrivalTime: 24; ServiceTime: 4
+ID: 15; ArrivalTime: 25; ServiceTime: 3
+ID: 57; ArrivalTime: 28; ServiceTime: 3
+ID: 96; ArrivalTime: 29; ServiceTime: 5
+ID: 68; ArrivalTime: 32; ServiceTime: 3
+ID: 6; ArrivalTime: 32; ServiceTime: 1
+ID: 68; ArrivalTime: 33; ServiceTime: 7
+ID: 16; ArrivalTime: 36; ServiceTime: 4
+ID: 40; ArrivalTime: 36; ServiceTime: 6
+ID: 90; ArrivalTime: 36; ServiceTime: 6
+ID: 86; ArrivalTime: 37; ServiceTime: 6
+ID: 33; ArrivalTime: 38; ServiceTime: 6
+ID: 68; ArrivalTime: 38; ServiceTime: 3
+ID: 47; ArrivalTime: 38; ServiceTime: 2
+ID: 71; ArrivalTime: 38; ServiceTime: 7
+ID: 24; ArrivalTime: 38; ServiceTime: 5
+ID: 18; ArrivalTime: 38; ServiceTime: 6
+ID: 14; ArrivalTime: 38; ServiceTime: 2
+ID: 44; ArrivalTime: 40; ServiceTime: 2
+Queue0: [ID: 16; ArrivalTime: 8; ServiceTime: 6
+]
+Queue1: [ID: 15; ArrivalTime: 3; ServiceTime: 1
+, ID: 45; ArrivalTime: 8; ServiceTime: 4
+]
+Queue2: [ID: 65; ArrivalTime: 3; ServiceTime: 1
+, ID: 40; ArrivalTime: 8; ServiceTime: 3
+]
+Queue3: [ID: 96; ArrivalTime: 7; ServiceTime: 6
+]
+Queue4: [ID: 1; ArrivalTime: 7; ServiceTime: 2
+]
+
+Current time: 9
+Waiting clients:
+ID: 52; ArrivalTime: 10; ServiceTime: 2
+ID: 85; ArrivalTime: 10; ServiceTime: 2
+ID: 42; ArrivalTime: 10; ServiceTime: 6
+ID: 15; ArrivalTime: 11; ServiceTime: 6
+ID: 19; ArrivalTime: 12; ServiceTime: 3
+ID: 58; ArrivalTime: 13; ServiceTime: 6
+ID: 44; ArrivalTime: 14; ServiceTime: 1
+ID: 78; ArrivalTime: 14; ServiceTime: 3
+ID: 57; ArrivalTime: 16; ServiceTime: 7
+ID: 12; ArrivalTime: 16; ServiceTime: 3
+ID: 28; ArrivalTime: 17; ServiceTime: 4
+ID: 51; ArrivalTime: 17; ServiceTime: 4
+ID: 55; ArrivalTime: 20; ServiceTime: 3
+ID: 65; ArrivalTime: 21; ServiceTime: 4
+ID: 44; ArrivalTime: 21; ServiceTime: 1
+ID: 36; ArrivalTime: 21; ServiceTime: 7
+ID: 84; ArrivalTime: 22; ServiceTime: 1
+ID: 32; ArrivalTime: 22; ServiceTime: 2
+ID: 48; ArrivalTime: 23; ServiceTime: 1
+ID: 60; ArrivalTime: 24; ServiceTime: 4
+ID: 15; ArrivalTime: 25; ServiceTime: 3
+ID: 57; ArrivalTime: 28; ServiceTime: 3
+ID: 96; ArrivalTime: 29; ServiceTime: 5
+ID: 68; ArrivalTime: 32; ServiceTime: 3
+ID: 6; ArrivalTime: 32; ServiceTime: 1
+ID: 68; ArrivalTime: 33; ServiceTime: 7
+ID: 16; ArrivalTime: 36; ServiceTime: 4
+ID: 40; ArrivalTime: 36; ServiceTime: 6
+ID: 90; ArrivalTime: 36; ServiceTime: 6
+ID: 86; ArrivalTime: 37; ServiceTime: 6
+ID: 33; ArrivalTime: 38; ServiceTime: 6
+ID: 68; ArrivalTime: 38; ServiceTime: 3
+ID: 47; ArrivalTime: 38; ServiceTime: 2
+ID: 71; ArrivalTime: 38; ServiceTime: 7
+ID: 24; ArrivalTime: 38; ServiceTime: 5
+ID: 18; ArrivalTime: 38; ServiceTime: 6
+ID: 14; ArrivalTime: 38; ServiceTime: 2
+ID: 44; ArrivalTime: 40; ServiceTime: 2
+Queue0: [ID: 16; ArrivalTime: 8; ServiceTime: 5
+]
+Queue1: [ID: 45; ArrivalTime: 8; ServiceTime: 4
+, ID: 15; ArrivalTime: 9; ServiceTime: 3
+]
+Queue2: [ID: 40; ArrivalTime: 8; ServiceTime: 3
+, ID: 82; ArrivalTime: 9; ServiceTime: 2
+]
+Queue3: [ID: 96; ArrivalTime: 7; ServiceTime: 5
+]
+Queue4: [ID: 1; ArrivalTime: 7; ServiceTime: 1
+, ID: 91; ArrivalTime: 9; ServiceTime: 1
+, ID: 65; ArrivalTime: 9; ServiceTime: 7
+]
+
+Current time: 10
+Waiting clients:
+ID: 15; ArrivalTime: 11; ServiceTime: 6
+ID: 19; ArrivalTime: 12; ServiceTime: 3
+ID: 58; ArrivalTime: 13; ServiceTime: 6
+ID: 44; ArrivalTime: 14; ServiceTime: 1
+ID: 78; ArrivalTime: 14; ServiceTime: 3
+ID: 57; ArrivalTime: 16; ServiceTime: 7
+ID: 12; ArrivalTime: 16; ServiceTime: 3
+ID: 28; ArrivalTime: 17; ServiceTime: 4
+ID: 51; ArrivalTime: 17; ServiceTime: 4
+ID: 55; ArrivalTime: 20; ServiceTime: 3
+ID: 65; ArrivalTime: 21; ServiceTime: 4
+ID: 44; ArrivalTime: 21; ServiceTime: 1
+ID: 36; ArrivalTime: 21; ServiceTime: 7
+ID: 84; ArrivalTime: 22; ServiceTime: 1
+ID: 32; ArrivalTime: 22; ServiceTime: 2
+ID: 48; ArrivalTime: 23; ServiceTime: 1
+ID: 60; ArrivalTime: 24; ServiceTime: 4
+ID: 15; ArrivalTime: 25; ServiceTime: 3
+ID: 57; ArrivalTime: 28; ServiceTime: 3
+ID: 96; ArrivalTime: 29; ServiceTime: 5
+ID: 68; ArrivalTime: 32; ServiceTime: 3
+ID: 6; ArrivalTime: 32; ServiceTime: 1
+ID: 68; ArrivalTime: 33; ServiceTime: 7
+ID: 16; ArrivalTime: 36; ServiceTime: 4
+ID: 40; ArrivalTime: 36; ServiceTime: 6
+ID: 90; ArrivalTime: 36; ServiceTime: 6
+ID: 86; ArrivalTime: 37; ServiceTime: 6
+ID: 33; ArrivalTime: 38; ServiceTime: 6
+ID: 68; ArrivalTime: 38; ServiceTime: 3
+ID: 47; ArrivalTime: 38; ServiceTime: 2
+ID: 71; ArrivalTime: 38; ServiceTime: 7
+ID: 24; ArrivalTime: 38; ServiceTime: 5
+ID: 18; ArrivalTime: 38; ServiceTime: 6
+ID: 14; ArrivalTime: 38; ServiceTime: 2
+ID: 44; ArrivalTime: 40; ServiceTime: 2
+Queue0: [ID: 16; ArrivalTime: 8; ServiceTime: 4
+, ID: 85; ArrivalTime: 10; ServiceTime: 2
+]
+Queue1: [ID: 45; ArrivalTime: 8; ServiceTime: 3
+, ID: 15; ArrivalTime: 9; ServiceTime: 3
+]
+Queue2: [ID: 40; ArrivalTime: 8; ServiceTime: 2
+, ID: 82; ArrivalTime: 9; ServiceTime: 2
+, ID: 42; ArrivalTime: 10; ServiceTime: 6
+]
+Queue3: [ID: 96; ArrivalTime: 7; ServiceTime: 4
+, ID: 52; ArrivalTime: 10; ServiceTime: 2
+]
+Queue4: [ID: 91; ArrivalTime: 9; ServiceTime: 1
+, ID: 65; ArrivalTime: 9; ServiceTime: 7
+]
+
+Current time: 11
+Waiting clients:
+ID: 19; ArrivalTime: 12; ServiceTime: 3
+ID: 58; ArrivalTime: 13; ServiceTime: 6
+ID: 44; ArrivalTime: 14; ServiceTime: 1
+ID: 78; ArrivalTime: 14; ServiceTime: 3
+ID: 57; ArrivalTime: 16; ServiceTime: 7
+ID: 12; ArrivalTime: 16; ServiceTime: 3
+ID: 28; ArrivalTime: 17; ServiceTime: 4
+ID: 51; ArrivalTime: 17; ServiceTime: 4
+ID: 55; ArrivalTime: 20; ServiceTime: 3
+ID: 65; ArrivalTime: 21; ServiceTime: 4
+ID: 44; ArrivalTime: 21; ServiceTime: 1
+ID: 36; ArrivalTime: 21; ServiceTime: 7
+ID: 84; ArrivalTime: 22; ServiceTime: 1
+ID: 32; ArrivalTime: 22; ServiceTime: 2
+ID: 48; ArrivalTime: 23; ServiceTime: 1
+ID: 60; ArrivalTime: 24; ServiceTime: 4
+ID: 15; ArrivalTime: 25; ServiceTime: 3
+ID: 57; ArrivalTime: 28; ServiceTime: 3
+ID: 96; ArrivalTime: 29; ServiceTime: 5
+ID: 68; ArrivalTime: 32; ServiceTime: 3
+ID: 6; ArrivalTime: 32; ServiceTime: 1
+ID: 68; ArrivalTime: 33; ServiceTime: 7
+ID: 16; ArrivalTime: 36; ServiceTime: 4
+ID: 40; ArrivalTime: 36; ServiceTime: 6
+ID: 90; ArrivalTime: 36; ServiceTime: 6
+ID: 86; ArrivalTime: 37; ServiceTime: 6
+ID: 33; ArrivalTime: 38; ServiceTime: 6
+ID: 68; ArrivalTime: 38; ServiceTime: 3
+ID: 47; ArrivalTime: 38; ServiceTime: 2
+ID: 71; ArrivalTime: 38; ServiceTime: 7
+ID: 24; ArrivalTime: 38; ServiceTime: 5
+ID: 18; ArrivalTime: 38; ServiceTime: 6
+ID: 14; ArrivalTime: 38; ServiceTime: 2
+ID: 44; ArrivalTime: 40; ServiceTime: 2
+Queue0: [ID: 16; ArrivalTime: 8; ServiceTime: 3
+, ID: 85; ArrivalTime: 10; ServiceTime: 2
+]
+Queue1: [ID: 45; ArrivalTime: 8; ServiceTime: 2
+, ID: 15; ArrivalTime: 9; ServiceTime: 3
+]
+Queue2: [ID: 40; ArrivalTime: 8; ServiceTime: 1
+, ID: 82; ArrivalTime: 9; ServiceTime: 2
+, ID: 42; ArrivalTime: 10; ServiceTime: 6
+]
+Queue3: [ID: 96; ArrivalTime: 7; ServiceTime: 3
+, ID: 52; ArrivalTime: 10; ServiceTime: 2
+, ID: 15; ArrivalTime: 11; ServiceTime: 6
+]
+Queue4: [ID: 65; ArrivalTime: 9; ServiceTime: 7
+]
+
+Current time: 12
+Waiting clients:
+ID: 58; ArrivalTime: 13; ServiceTime: 6
+ID: 44; ArrivalTime: 14; ServiceTime: 1
+ID: 78; ArrivalTime: 14; ServiceTime: 3
+ID: 57; ArrivalTime: 16; ServiceTime: 7
+ID: 12; ArrivalTime: 16; ServiceTime: 3
+ID: 28; ArrivalTime: 17; ServiceTime: 4
+ID: 51; ArrivalTime: 17; ServiceTime: 4
+ID: 55; ArrivalTime: 20; ServiceTime: 3
+ID: 65; ArrivalTime: 21; ServiceTime: 4
+ID: 44; ArrivalTime: 21; ServiceTime: 1
+ID: 36; ArrivalTime: 21; ServiceTime: 7
+ID: 84; ArrivalTime: 22; ServiceTime: 1
+ID: 32; ArrivalTime: 22; ServiceTime: 2
+ID: 48; ArrivalTime: 23; ServiceTime: 1
+ID: 60; ArrivalTime: 24; ServiceTime: 4
+ID: 15; ArrivalTime: 25; ServiceTime: 3
+ID: 57; ArrivalTime: 28; ServiceTime: 3
+ID: 96; ArrivalTime: 29; ServiceTime: 5
+ID: 68; ArrivalTime: 32; ServiceTime: 3
+ID: 6; ArrivalTime: 32; ServiceTime: 1
+ID: 68; ArrivalTime: 33; ServiceTime: 7
+ID: 16; ArrivalTime: 36; ServiceTime: 4
+ID: 40; ArrivalTime: 36; ServiceTime: 6
+ID: 90; ArrivalTime: 36; ServiceTime: 6
+ID: 86; ArrivalTime: 37; ServiceTime: 6
+ID: 33; ArrivalTime: 38; ServiceTime: 6
+ID: 68; ArrivalTime: 38; ServiceTime: 3
+ID: 47; ArrivalTime: 38; ServiceTime: 2
+ID: 71; ArrivalTime: 38; ServiceTime: 7
+ID: 24; ArrivalTime: 38; ServiceTime: 5
+ID: 18; ArrivalTime: 38; ServiceTime: 6
+ID: 14; ArrivalTime: 38; ServiceTime: 2
+ID: 44; ArrivalTime: 40; ServiceTime: 2
+Queue0: [ID: 16; ArrivalTime: 8; ServiceTime: 2
+, ID: 85; ArrivalTime: 10; ServiceTime: 2
+, ID: 19; ArrivalTime: 12; ServiceTime: 3
+]
+Queue1: [ID: 45; ArrivalTime: 8; ServiceTime: 1
+, ID: 15; ArrivalTime: 9; ServiceTime: 3
+]
+Queue2: [ID: 82; ArrivalTime: 9; ServiceTime: 2
+, ID: 42; ArrivalTime: 10; ServiceTime: 6
+]
+Queue3: [ID: 96; ArrivalTime: 7; ServiceTime: 2
+, ID: 52; ArrivalTime: 10; ServiceTime: 2
+, ID: 15; ArrivalTime: 11; ServiceTime: 6
+]
+Queue4: [ID: 65; ArrivalTime: 9; ServiceTime: 6
+]
+
+Current time: 13
+Waiting clients:
+ID: 44; ArrivalTime: 14; ServiceTime: 1
+ID: 78; ArrivalTime: 14; ServiceTime: 3
+ID: 57; ArrivalTime: 16; ServiceTime: 7
+ID: 12; ArrivalTime: 16; ServiceTime: 3
+ID: 28; ArrivalTime: 17; ServiceTime: 4
+ID: 51; ArrivalTime: 17; ServiceTime: 4
+ID: 55; ArrivalTime: 20; ServiceTime: 3
+ID: 65; ArrivalTime: 21; ServiceTime: 4
+ID: 44; ArrivalTime: 21; ServiceTime: 1
+ID: 36; ArrivalTime: 21; ServiceTime: 7
+ID: 84; ArrivalTime: 22; ServiceTime: 1
+ID: 32; ArrivalTime: 22; ServiceTime: 2
+ID: 48; ArrivalTime: 23; ServiceTime: 1
+ID: 60; ArrivalTime: 24; ServiceTime: 4
+ID: 15; ArrivalTime: 25; ServiceTime: 3
+ID: 57; ArrivalTime: 28; ServiceTime: 3
+ID: 96; ArrivalTime: 29; ServiceTime: 5
+ID: 68; ArrivalTime: 32; ServiceTime: 3
+ID: 6; ArrivalTime: 32; ServiceTime: 1
+ID: 68; ArrivalTime: 33; ServiceTime: 7
+ID: 16; ArrivalTime: 36; ServiceTime: 4
+ID: 40; ArrivalTime: 36; ServiceTime: 6
+ID: 90; ArrivalTime: 36; ServiceTime: 6
+ID: 86; ArrivalTime: 37; ServiceTime: 6
+ID: 33; ArrivalTime: 38; ServiceTime: 6
+ID: 68; ArrivalTime: 38; ServiceTime: 3
+ID: 47; ArrivalTime: 38; ServiceTime: 2
+ID: 71; ArrivalTime: 38; ServiceTime: 7
+ID: 24; ArrivalTime: 38; ServiceTime: 5
+ID: 18; ArrivalTime: 38; ServiceTime: 6
+ID: 14; ArrivalTime: 38; ServiceTime: 2
+ID: 44; ArrivalTime: 40; ServiceTime: 2
+Queue0: [ID: 16; ArrivalTime: 8; ServiceTime: 1
+, ID: 85; ArrivalTime: 10; ServiceTime: 2
+, ID: 19; ArrivalTime: 12; ServiceTime: 3
+]
+Queue1: [ID: 15; ArrivalTime: 9; ServiceTime: 3
+, ID: 58; ArrivalTime: 13; ServiceTime: 6
+]
+Queue2: [ID: 82; ArrivalTime: 9; ServiceTime: 1
+, ID: 42; ArrivalTime: 10; ServiceTime: 6
+]
+Queue3: [ID: 96; ArrivalTime: 7; ServiceTime: 1
+, ID: 52; ArrivalTime: 10; ServiceTime: 2
+, ID: 15; ArrivalTime: 11; ServiceTime: 6
+]
+Queue4: [ID: 65; ArrivalTime: 9; ServiceTime: 5
+]
+
+Current time: 14
+Waiting clients:
+ID: 57; ArrivalTime: 16; ServiceTime: 7
+ID: 12; ArrivalTime: 16; ServiceTime: 3
+ID: 28; ArrivalTime: 17; ServiceTime: 4
+ID: 51; ArrivalTime: 17; ServiceTime: 4
+ID: 55; ArrivalTime: 20; ServiceTime: 3
+ID: 65; ArrivalTime: 21; ServiceTime: 4
+ID: 44; ArrivalTime: 21; ServiceTime: 1
+ID: 36; ArrivalTime: 21; ServiceTime: 7
+ID: 84; ArrivalTime: 22; ServiceTime: 1
+ID: 32; ArrivalTime: 22; ServiceTime: 2
+ID: 48; ArrivalTime: 23; ServiceTime: 1
+ID: 60; ArrivalTime: 24; ServiceTime: 4
+ID: 15; ArrivalTime: 25; ServiceTime: 3
+ID: 57; ArrivalTime: 28; ServiceTime: 3
+ID: 96; ArrivalTime: 29; ServiceTime: 5
+ID: 68; ArrivalTime: 32; ServiceTime: 3
+ID: 6; ArrivalTime: 32; ServiceTime: 1
+ID: 68; ArrivalTime: 33; ServiceTime: 7
+ID: 16; ArrivalTime: 36; ServiceTime: 4
+ID: 40; ArrivalTime: 36; ServiceTime: 6
+ID: 90; ArrivalTime: 36; ServiceTime: 6
+ID: 86; ArrivalTime: 37; ServiceTime: 6
+ID: 33; ArrivalTime: 38; ServiceTime: 6
+ID: 68; ArrivalTime: 38; ServiceTime: 3
+ID: 47; ArrivalTime: 38; ServiceTime: 2
+ID: 71; ArrivalTime: 38; ServiceTime: 7
+ID: 24; ArrivalTime: 38; ServiceTime: 5
+ID: 18; ArrivalTime: 38; ServiceTime: 6
+ID: 14; ArrivalTime: 38; ServiceTime: 2
+ID: 44; ArrivalTime: 40; ServiceTime: 2
+Queue0: [ID: 85; ArrivalTime: 10; ServiceTime: 2
+, ID: 19; ArrivalTime: 12; ServiceTime: 3
+, ID: 78; ArrivalTime: 14; ServiceTime: 3
+]
+Queue1: [ID: 15; ArrivalTime: 9; ServiceTime: 2
+, ID: 58; ArrivalTime: 13; ServiceTime: 6
+]
+Queue2: [ID: 42; ArrivalTime: 10; ServiceTime: 6
+]
+Queue3: [ID: 52; ArrivalTime: 10; ServiceTime: 2
+, ID: 15; ArrivalTime: 11; ServiceTime: 6
+]
+Queue4: [ID: 65; ArrivalTime: 9; ServiceTime: 4
+, ID: 44; ArrivalTime: 14; ServiceTime: 1
+]
+
+Current time: 15
+Waiting clients:
+ID: 57; ArrivalTime: 16; ServiceTime: 7
+ID: 12; ArrivalTime: 16; ServiceTime: 3
+ID: 28; ArrivalTime: 17; ServiceTime: 4
+ID: 51; ArrivalTime: 17; ServiceTime: 4
+ID: 55; ArrivalTime: 20; ServiceTime: 3
+ID: 65; ArrivalTime: 21; ServiceTime: 4
+ID: 44; ArrivalTime: 21; ServiceTime: 1
+ID: 36; ArrivalTime: 21; ServiceTime: 7
+ID: 84; ArrivalTime: 22; ServiceTime: 1
+ID: 32; ArrivalTime: 22; ServiceTime: 2
+ID: 48; ArrivalTime: 23; ServiceTime: 1
+ID: 60; ArrivalTime: 24; ServiceTime: 4
+ID: 15; ArrivalTime: 25; ServiceTime: 3
+ID: 57; ArrivalTime: 28; ServiceTime: 3
+ID: 96; ArrivalTime: 29; ServiceTime: 5
+ID: 68; ArrivalTime: 32; ServiceTime: 3
+ID: 6; ArrivalTime: 32; ServiceTime: 1
+ID: 68; ArrivalTime: 33; ServiceTime: 7
+ID: 16; ArrivalTime: 36; ServiceTime: 4
+ID: 40; ArrivalTime: 36; ServiceTime: 6
+ID: 90; ArrivalTime: 36; ServiceTime: 6
+ID: 86; ArrivalTime: 37; ServiceTime: 6
+ID: 33; ArrivalTime: 38; ServiceTime: 6
+ID: 68; ArrivalTime: 38; ServiceTime: 3
+ID: 47; ArrivalTime: 38; ServiceTime: 2
+ID: 71; ArrivalTime: 38; ServiceTime: 7
+ID: 24; ArrivalTime: 38; ServiceTime: 5
+ID: 18; ArrivalTime: 38; ServiceTime: 6
+ID: 14; ArrivalTime: 38; ServiceTime: 2
+ID: 44; ArrivalTime: 40; ServiceTime: 2
+Queue0: [ID: 85; ArrivalTime: 10; ServiceTime: 1
+, ID: 19; ArrivalTime: 12; ServiceTime: 3
+, ID: 78; ArrivalTime: 14; ServiceTime: 3
+]
+Queue1: [ID: 15; ArrivalTime: 9; ServiceTime: 1
+, ID: 58; ArrivalTime: 13; ServiceTime: 6
+]
+Queue2: [ID: 42; ArrivalTime: 10; ServiceTime: 5
+]
+Queue3: [ID: 52; ArrivalTime: 10; ServiceTime: 1
+, ID: 15; ArrivalTime: 11; ServiceTime: 6
+]
+Queue4: [ID: 65; ArrivalTime: 9; ServiceTime: 3
+, ID: 44; ArrivalTime: 14; ServiceTime: 1
+]
+
+Current time: 16
+Waiting clients:
+ID: 28; ArrivalTime: 17; ServiceTime: 4
+ID: 51; ArrivalTime: 17; ServiceTime: 4
+ID: 55; ArrivalTime: 20; ServiceTime: 3
+ID: 65; ArrivalTime: 21; ServiceTime: 4
+ID: 44; ArrivalTime: 21; ServiceTime: 1
+ID: 36; ArrivalTime: 21; ServiceTime: 7
+ID: 84; ArrivalTime: 22; ServiceTime: 1
+ID: 32; ArrivalTime: 22; ServiceTime: 2
+ID: 48; ArrivalTime: 23; ServiceTime: 1
+ID: 60; ArrivalTime: 24; ServiceTime: 4
+ID: 15; ArrivalTime: 25; ServiceTime: 3
+ID: 57; ArrivalTime: 28; ServiceTime: 3
+ID: 96; ArrivalTime: 29; ServiceTime: 5
+ID: 68; ArrivalTime: 32; ServiceTime: 3
+ID: 6; ArrivalTime: 32; ServiceTime: 1
+ID: 68; ArrivalTime: 33; ServiceTime: 7
+ID: 16; ArrivalTime: 36; ServiceTime: 4
+ID: 40; ArrivalTime: 36; ServiceTime: 6
+ID: 90; ArrivalTime: 36; ServiceTime: 6
+ID: 86; ArrivalTime: 37; ServiceTime: 6
+ID: 33; ArrivalTime: 38; ServiceTime: 6
+ID: 68; ArrivalTime: 38; ServiceTime: 3
+ID: 47; ArrivalTime: 38; ServiceTime: 2
+ID: 71; ArrivalTime: 38; ServiceTime: 7
+ID: 24; ArrivalTime: 38; ServiceTime: 5
+ID: 18; ArrivalTime: 38; ServiceTime: 6
+ID: 14; ArrivalTime: 38; ServiceTime: 2
+ID: 44; ArrivalTime: 40; ServiceTime: 2
+Queue0: [ID: 19; ArrivalTime: 12; ServiceTime: 3
+, ID: 78; ArrivalTime: 14; ServiceTime: 3
+]
+Queue1: [ID: 58; ArrivalTime: 13; ServiceTime: 6
+]
+Queue2: [ID: 42; ArrivalTime: 10; ServiceTime: 4
+, ID: 12; ArrivalTime: 16; ServiceTime: 3
+]
+Queue3: [ID: 15; ArrivalTime: 11; ServiceTime: 6
+]
+Queue4: [ID: 65; ArrivalTime: 9; ServiceTime: 2
+, ID: 44; ArrivalTime: 14; ServiceTime: 1
+, ID: 57; ArrivalTime: 16; ServiceTime: 7
+]
+
+Current time: 17
+Waiting clients:
+ID: 55; ArrivalTime: 20; ServiceTime: 3
+ID: 65; ArrivalTime: 21; ServiceTime: 4
+ID: 44; ArrivalTime: 21; ServiceTime: 1
+ID: 36; ArrivalTime: 21; ServiceTime: 7
+ID: 84; ArrivalTime: 22; ServiceTime: 1
+ID: 32; ArrivalTime: 22; ServiceTime: 2
+ID: 48; ArrivalTime: 23; ServiceTime: 1
+ID: 60; ArrivalTime: 24; ServiceTime: 4
+ID: 15; ArrivalTime: 25; ServiceTime: 3
+ID: 57; ArrivalTime: 28; ServiceTime: 3
+ID: 96; ArrivalTime: 29; ServiceTime: 5
+ID: 68; ArrivalTime: 32; ServiceTime: 3
+ID: 6; ArrivalTime: 32; ServiceTime: 1
+ID: 68; ArrivalTime: 33; ServiceTime: 7
+ID: 16; ArrivalTime: 36; ServiceTime: 4
+ID: 40; ArrivalTime: 36; ServiceTime: 6
+ID: 90; ArrivalTime: 36; ServiceTime: 6
+ID: 86; ArrivalTime: 37; ServiceTime: 6
+ID: 33; ArrivalTime: 38; ServiceTime: 6
+ID: 68; ArrivalTime: 38; ServiceTime: 3
+ID: 47; ArrivalTime: 38; ServiceTime: 2
+ID: 71; ArrivalTime: 38; ServiceTime: 7
+ID: 24; ArrivalTime: 38; ServiceTime: 5
+ID: 18; ArrivalTime: 38; ServiceTime: 6
+ID: 14; ArrivalTime: 38; ServiceTime: 2
+ID: 44; ArrivalTime: 40; ServiceTime: 2
+Queue0: [ID: 19; ArrivalTime: 12; ServiceTime: 2
+, ID: 78; ArrivalTime: 14; ServiceTime: 3
+]
+Queue1: [ID: 58; ArrivalTime: 13; ServiceTime: 5
+, ID: 51; ArrivalTime: 17; ServiceTime: 4
+]
+Queue2: [ID: 42; ArrivalTime: 10; ServiceTime: 3
+, ID: 12; ArrivalTime: 16; ServiceTime: 3
+]
+Queue3: [ID: 15; ArrivalTime: 11; ServiceTime: 5
+, ID: 28; ArrivalTime: 17; ServiceTime: 4
+]
+Queue4: [ID: 65; ArrivalTime: 9; ServiceTime: 1
+, ID: 44; ArrivalTime: 14; ServiceTime: 1
+, ID: 57; ArrivalTime: 16; ServiceTime: 7
+]
+
+Current time: 18
+Waiting clients:
+ID: 55; ArrivalTime: 20; ServiceTime: 3
+ID: 65; ArrivalTime: 21; ServiceTime: 4
+ID: 44; ArrivalTime: 21; ServiceTime: 1
+ID: 36; ArrivalTime: 21; ServiceTime: 7
+ID: 84; ArrivalTime: 22; ServiceTime: 1
+ID: 32; ArrivalTime: 22; ServiceTime: 2
+ID: 48; ArrivalTime: 23; ServiceTime: 1
+ID: 60; ArrivalTime: 24; ServiceTime: 4
+ID: 15; ArrivalTime: 25; ServiceTime: 3
+ID: 57; ArrivalTime: 28; ServiceTime: 3
+ID: 96; ArrivalTime: 29; ServiceTime: 5
+ID: 68; ArrivalTime: 32; ServiceTime: 3
+ID: 6; ArrivalTime: 32; ServiceTime: 1
+ID: 68; ArrivalTime: 33; ServiceTime: 7
+ID: 16; ArrivalTime: 36; ServiceTime: 4
+ID: 40; ArrivalTime: 36; ServiceTime: 6
+ID: 90; ArrivalTime: 36; ServiceTime: 6
+ID: 86; ArrivalTime: 37; ServiceTime: 6
+ID: 33; ArrivalTime: 38; ServiceTime: 6
+ID: 68; ArrivalTime: 38; ServiceTime: 3
+ID: 47; ArrivalTime: 38; ServiceTime: 2
+ID: 71; ArrivalTime: 38; ServiceTime: 7
+ID: 24; ArrivalTime: 38; ServiceTime: 5
+ID: 18; ArrivalTime: 38; ServiceTime: 6
+ID: 14; ArrivalTime: 38; ServiceTime: 2
+ID: 44; ArrivalTime: 40; ServiceTime: 2
+Queue0: [ID: 19; ArrivalTime: 12; ServiceTime: 1
+, ID: 78; ArrivalTime: 14; ServiceTime: 3
+]
+Queue1: [ID: 58; ArrivalTime: 13; ServiceTime: 4
+, ID: 51; ArrivalTime: 17; ServiceTime: 4
+]
+Queue2: [ID: 42; ArrivalTime: 10; ServiceTime: 2
+, ID: 12; ArrivalTime: 16; ServiceTime: 3
+]
+Queue3: [ID: 15; ArrivalTime: 11; ServiceTime: 4
+, ID: 28; ArrivalTime: 17; ServiceTime: 4
+]
+Queue4: [ID: 44; ArrivalTime: 14; ServiceTime: 1
+, ID: 57; ArrivalTime: 16; ServiceTime: 7
+]
+
+Current time: 19
+Waiting clients:
+ID: 55; ArrivalTime: 20; ServiceTime: 3
+ID: 65; ArrivalTime: 21; ServiceTime: 4
+ID: 44; ArrivalTime: 21; ServiceTime: 1
+ID: 36; ArrivalTime: 21; ServiceTime: 7
+ID: 84; ArrivalTime: 22; ServiceTime: 1
+ID: 32; ArrivalTime: 22; ServiceTime: 2
+ID: 48; ArrivalTime: 23; ServiceTime: 1
+ID: 60; ArrivalTime: 24; ServiceTime: 4
+ID: 15; ArrivalTime: 25; ServiceTime: 3
+ID: 57; ArrivalTime: 28; ServiceTime: 3
+ID: 96; ArrivalTime: 29; ServiceTime: 5
+ID: 68; ArrivalTime: 32; ServiceTime: 3
+ID: 6; ArrivalTime: 32; ServiceTime: 1
+ID: 68; ArrivalTime: 33; ServiceTime: 7
+ID: 16; ArrivalTime: 36; ServiceTime: 4
+ID: 40; ArrivalTime: 36; ServiceTime: 6
+ID: 90; ArrivalTime: 36; ServiceTime: 6
+ID: 86; ArrivalTime: 37; ServiceTime: 6
+ID: 33; ArrivalTime: 38; ServiceTime: 6
+ID: 68; ArrivalTime: 38; ServiceTime: 3
+ID: 47; ArrivalTime: 38; ServiceTime: 2
+ID: 71; ArrivalTime: 38; ServiceTime: 7
+ID: 24; ArrivalTime: 38; ServiceTime: 5
+ID: 18; ArrivalTime: 38; ServiceTime: 6
+ID: 14; ArrivalTime: 38; ServiceTime: 2
+ID: 44; ArrivalTime: 40; ServiceTime: 2
+Queue0: [ID: 78; ArrivalTime: 14; ServiceTime: 3
+]
+Queue1: [ID: 58; ArrivalTime: 13; ServiceTime: 3
+, ID: 51; ArrivalTime: 17; ServiceTime: 4
+]
+Queue2: [ID: 42; ArrivalTime: 10; ServiceTime: 1
+, ID: 12; ArrivalTime: 16; ServiceTime: 3
+]
+Queue3: [ID: 15; ArrivalTime: 11; ServiceTime: 3
+, ID: 28; ArrivalTime: 17; ServiceTime: 4
+]
+Queue4: [ID: 57; ArrivalTime: 16; ServiceTime: 7
+]
+
+Current time: 20
+Waiting clients:
+ID: 65; ArrivalTime: 21; ServiceTime: 4
+ID: 44; ArrivalTime: 21; ServiceTime: 1
+ID: 36; ArrivalTime: 21; ServiceTime: 7
+ID: 84; ArrivalTime: 22; ServiceTime: 1
+ID: 32; ArrivalTime: 22; ServiceTime: 2
+ID: 48; ArrivalTime: 23; ServiceTime: 1
+ID: 60; ArrivalTime: 24; ServiceTime: 4
+ID: 15; ArrivalTime: 25; ServiceTime: 3
+ID: 57; ArrivalTime: 28; ServiceTime: 3
+ID: 96; ArrivalTime: 29; ServiceTime: 5
+ID: 68; ArrivalTime: 32; ServiceTime: 3
+ID: 6; ArrivalTime: 32; ServiceTime: 1
+ID: 68; ArrivalTime: 33; ServiceTime: 7
+ID: 16; ArrivalTime: 36; ServiceTime: 4
+ID: 40; ArrivalTime: 36; ServiceTime: 6
+ID: 90; ArrivalTime: 36; ServiceTime: 6
+ID: 86; ArrivalTime: 37; ServiceTime: 6
+ID: 33; ArrivalTime: 38; ServiceTime: 6
+ID: 68; ArrivalTime: 38; ServiceTime: 3
+ID: 47; ArrivalTime: 38; ServiceTime: 2
+ID: 71; ArrivalTime: 38; ServiceTime: 7
+ID: 24; ArrivalTime: 38; ServiceTime: 5
+ID: 18; ArrivalTime: 38; ServiceTime: 6
+ID: 14; ArrivalTime: 38; ServiceTime: 2
+ID: 44; ArrivalTime: 40; ServiceTime: 2
+Queue0: [ID: 78; ArrivalTime: 14; ServiceTime: 2
+, ID: 55; ArrivalTime: 20; ServiceTime: 3
+]
+Queue1: [ID: 58; ArrivalTime: 13; ServiceTime: 2
+, ID: 51; ArrivalTime: 17; ServiceTime: 4
+]
+Queue2: [ID: 12; ArrivalTime: 16; ServiceTime: 3
+]
+Queue3: [ID: 15; ArrivalTime: 11; ServiceTime: 2
+, ID: 28; ArrivalTime: 17; ServiceTime: 4
+]
+Queue4: [ID: 57; ArrivalTime: 16; ServiceTime: 6
+]
+
+Current time: 21
+Waiting clients:
+ID: 84; ArrivalTime: 22; ServiceTime: 1
+ID: 32; ArrivalTime: 22; ServiceTime: 2
+ID: 48; ArrivalTime: 23; ServiceTime: 1
+ID: 60; ArrivalTime: 24; ServiceTime: 4
+ID: 15; ArrivalTime: 25; ServiceTime: 3
+ID: 57; ArrivalTime: 28; ServiceTime: 3
+ID: 96; ArrivalTime: 29; ServiceTime: 5
+ID: 68; ArrivalTime: 32; ServiceTime: 3
+ID: 6; ArrivalTime: 32; ServiceTime: 1
+ID: 68; ArrivalTime: 33; ServiceTime: 7
+ID: 16; ArrivalTime: 36; ServiceTime: 4
+ID: 40; ArrivalTime: 36; ServiceTime: 6
+ID: 90; ArrivalTime: 36; ServiceTime: 6
+ID: 86; ArrivalTime: 37; ServiceTime: 6
+ID: 33; ArrivalTime: 38; ServiceTime: 6
+ID: 68; ArrivalTime: 38; ServiceTime: 3
+ID: 47; ArrivalTime: 38; ServiceTime: 2
+ID: 71; ArrivalTime: 38; ServiceTime: 7
+ID: 24; ArrivalTime: 38; ServiceTime: 5
+ID: 18; ArrivalTime: 38; ServiceTime: 6
+ID: 14; ArrivalTime: 38; ServiceTime: 2
+ID: 44; ArrivalTime: 40; ServiceTime: 2
+Queue0: [ID: 78; ArrivalTime: 14; ServiceTime: 1
+, ID: 55; ArrivalTime: 20; ServiceTime: 3
+, ID: 36; ArrivalTime: 21; ServiceTime: 7
+]
+Queue1: [ID: 58; ArrivalTime: 13; ServiceTime: 1
+, ID: 51; ArrivalTime: 17; ServiceTime: 4
+]
+Queue2: [ID: 12; ArrivalTime: 16; ServiceTime: 2
+, ID: 65; ArrivalTime: 21; ServiceTime: 4
+]
+Queue3: [ID: 15; ArrivalTime: 11; ServiceTime: 1
+, ID: 28; ArrivalTime: 17; ServiceTime: 4
+, ID: 44; ArrivalTime: 21; ServiceTime: 1
+]
+Queue4: [ID: 57; ArrivalTime: 16; ServiceTime: 5
+]
+
+Current time: 22
+Waiting clients:
+ID: 48; ArrivalTime: 23; ServiceTime: 1
+ID: 60; ArrivalTime: 24; ServiceTime: 4
+ID: 15; ArrivalTime: 25; ServiceTime: 3
+ID: 57; ArrivalTime: 28; ServiceTime: 3
+ID: 96; ArrivalTime: 29; ServiceTime: 5
+ID: 68; ArrivalTime: 32; ServiceTime: 3
+ID: 6; ArrivalTime: 32; ServiceTime: 1
+ID: 68; ArrivalTime: 33; ServiceTime: 7
+ID: 16; ArrivalTime: 36; ServiceTime: 4
+ID: 40; ArrivalTime: 36; ServiceTime: 6
+ID: 90; ArrivalTime: 36; ServiceTime: 6
+ID: 86; ArrivalTime: 37; ServiceTime: 6
+ID: 33; ArrivalTime: 38; ServiceTime: 6
+ID: 68; ArrivalTime: 38; ServiceTime: 3
+ID: 47; ArrivalTime: 38; ServiceTime: 2
+ID: 71; ArrivalTime: 38; ServiceTime: 7
+ID: 24; ArrivalTime: 38; ServiceTime: 5
+ID: 18; ArrivalTime: 38; ServiceTime: 6
+ID: 14; ArrivalTime: 38; ServiceTime: 2
+ID: 44; ArrivalTime: 40; ServiceTime: 2
+Queue0: [ID: 55; ArrivalTime: 20; ServiceTime: 3
+, ID: 36; ArrivalTime: 21; ServiceTime: 7
+]
+Queue1: [ID: 51; ArrivalTime: 17; ServiceTime: 4
+, ID: 84; ArrivalTime: 22; ServiceTime: 1
+]
+Queue2: [ID: 12; ArrivalTime: 16; ServiceTime: 1
+, ID: 65; ArrivalTime: 21; ServiceTime: 4
+]
+Queue3: [ID: 28; ArrivalTime: 17; ServiceTime: 4
+, ID: 44; ArrivalTime: 21; ServiceTime: 1
+]
+Queue4: [ID: 57; ArrivalTime: 16; ServiceTime: 4
+, ID: 32; ArrivalTime: 22; ServiceTime: 2
+]
+
+Current time: 23
+Waiting clients:
+ID: 60; ArrivalTime: 24; ServiceTime: 4
+ID: 15; ArrivalTime: 25; ServiceTime: 3
+ID: 57; ArrivalTime: 28; ServiceTime: 3
+ID: 96; ArrivalTime: 29; ServiceTime: 5
+ID: 68; ArrivalTime: 32; ServiceTime: 3
+ID: 6; ArrivalTime: 32; ServiceTime: 1
+ID: 68; ArrivalTime: 33; ServiceTime: 7
+ID: 16; ArrivalTime: 36; ServiceTime: 4
+ID: 40; ArrivalTime: 36; ServiceTime: 6
+ID: 90; ArrivalTime: 36; ServiceTime: 6
+ID: 86; ArrivalTime: 37; ServiceTime: 6
+ID: 33; ArrivalTime: 38; ServiceTime: 6
+ID: 68; ArrivalTime: 38; ServiceTime: 3
+ID: 47; ArrivalTime: 38; ServiceTime: 2
+ID: 71; ArrivalTime: 38; ServiceTime: 7
+ID: 24; ArrivalTime: 38; ServiceTime: 5
+ID: 18; ArrivalTime: 38; ServiceTime: 6
+ID: 14; ArrivalTime: 38; ServiceTime: 2
+ID: 44; ArrivalTime: 40; ServiceTime: 2
+Queue0: [ID: 55; ArrivalTime: 20; ServiceTime: 2
+, ID: 36; ArrivalTime: 21; ServiceTime: 7
+]
+Queue1: [ID: 51; ArrivalTime: 17; ServiceTime: 3
+, ID: 84; ArrivalTime: 22; ServiceTime: 1
+]
+Queue2: [ID: 65; ArrivalTime: 21; ServiceTime: 4
+]
+Queue3: [ID: 28; ArrivalTime: 17; ServiceTime: 3
+, ID: 44; ArrivalTime: 21; ServiceTime: 1
+, ID: 48; ArrivalTime: 23; ServiceTime: 1
+]
+Queue4: [ID: 57; ArrivalTime: 16; ServiceTime: 3
+, ID: 32; ArrivalTime: 22; ServiceTime: 2
+]
+
+Current time: 24
+Waiting clients:
+ID: 15; ArrivalTime: 25; ServiceTime: 3
+ID: 57; ArrivalTime: 28; ServiceTime: 3
+ID: 96; ArrivalTime: 29; ServiceTime: 5
+ID: 68; ArrivalTime: 32; ServiceTime: 3
+ID: 6; ArrivalTime: 32; ServiceTime: 1
+ID: 68; ArrivalTime: 33; ServiceTime: 7
+ID: 16; ArrivalTime: 36; ServiceTime: 4
+ID: 40; ArrivalTime: 36; ServiceTime: 6
+ID: 90; ArrivalTime: 36; ServiceTime: 6
+ID: 86; ArrivalTime: 37; ServiceTime: 6
+ID: 33; ArrivalTime: 38; ServiceTime: 6
+ID: 68; ArrivalTime: 38; ServiceTime: 3
+ID: 47; ArrivalTime: 38; ServiceTime: 2
+ID: 71; ArrivalTime: 38; ServiceTime: 7
+ID: 24; ArrivalTime: 38; ServiceTime: 5
+ID: 18; ArrivalTime: 38; ServiceTime: 6
+ID: 14; ArrivalTime: 38; ServiceTime: 2
+ID: 44; ArrivalTime: 40; ServiceTime: 2
+Queue0: [ID: 55; ArrivalTime: 20; ServiceTime: 1
+, ID: 36; ArrivalTime: 21; ServiceTime: 7
+]
+Queue1: [ID: 51; ArrivalTime: 17; ServiceTime: 2
+, ID: 84; ArrivalTime: 22; ServiceTime: 1
+, ID: 60; ArrivalTime: 24; ServiceTime: 4
+]
+Queue2: [ID: 65; ArrivalTime: 21; ServiceTime: 3
+]
+Queue3: [ID: 28; ArrivalTime: 17; ServiceTime: 2
+, ID: 44; ArrivalTime: 21; ServiceTime: 1
+, ID: 48; ArrivalTime: 23; ServiceTime: 1
+]
+Queue4: [ID: 57; ArrivalTime: 16; ServiceTime: 2
+, ID: 32; ArrivalTime: 22; ServiceTime: 2
+]
+
+Current time: 25
+Waiting clients:
+ID: 57; ArrivalTime: 28; ServiceTime: 3
+ID: 96; ArrivalTime: 29; ServiceTime: 5
+ID: 68; ArrivalTime: 32; ServiceTime: 3
+ID: 6; ArrivalTime: 32; ServiceTime: 1
+ID: 68; ArrivalTime: 33; ServiceTime: 7
+ID: 16; ArrivalTime: 36; ServiceTime: 4
+ID: 40; ArrivalTime: 36; ServiceTime: 6
+ID: 90; ArrivalTime: 36; ServiceTime: 6
+ID: 86; ArrivalTime: 37; ServiceTime: 6
+ID: 33; ArrivalTime: 38; ServiceTime: 6
+ID: 68; ArrivalTime: 38; ServiceTime: 3
+ID: 47; ArrivalTime: 38; ServiceTime: 2
+ID: 71; ArrivalTime: 38; ServiceTime: 7
+ID: 24; ArrivalTime: 38; ServiceTime: 5
+ID: 18; ArrivalTime: 38; ServiceTime: 6
+ID: 14; ArrivalTime: 38; ServiceTime: 2
+ID: 44; ArrivalTime: 40; ServiceTime: 2
+Queue0: [ID: 36; ArrivalTime: 21; ServiceTime: 7
+]
+Queue1: [ID: 51; ArrivalTime: 17; ServiceTime: 1
+, ID: 84; ArrivalTime: 22; ServiceTime: 1
+, ID: 60; ArrivalTime: 24; ServiceTime: 4
+]
+Queue2: [ID: 65; ArrivalTime: 21; ServiceTime: 2
+, ID: 15; ArrivalTime: 25; ServiceTime: 3
+]
+Queue3: [ID: 28; ArrivalTime: 17; ServiceTime: 1
+, ID: 44; ArrivalTime: 21; ServiceTime: 1
+, ID: 48; ArrivalTime: 23; ServiceTime: 1
+]
+Queue4: [ID: 57; ArrivalTime: 16; ServiceTime: 1
+, ID: 32; ArrivalTime: 22; ServiceTime: 2
+]
+
+Current time: 26
+Waiting clients:
+ID: 57; ArrivalTime: 28; ServiceTime: 3
+ID: 96; ArrivalTime: 29; ServiceTime: 5
+ID: 68; ArrivalTime: 32; ServiceTime: 3
+ID: 6; ArrivalTime: 32; ServiceTime: 1
+ID: 68; ArrivalTime: 33; ServiceTime: 7
+ID: 16; ArrivalTime: 36; ServiceTime: 4
+ID: 40; ArrivalTime: 36; ServiceTime: 6
+ID: 90; ArrivalTime: 36; ServiceTime: 6
+ID: 86; ArrivalTime: 37; ServiceTime: 6
+ID: 33; ArrivalTime: 38; ServiceTime: 6
+ID: 68; ArrivalTime: 38; ServiceTime: 3
+ID: 47; ArrivalTime: 38; ServiceTime: 2
+ID: 71; ArrivalTime: 38; ServiceTime: 7
+ID: 24; ArrivalTime: 38; ServiceTime: 5
+ID: 18; ArrivalTime: 38; ServiceTime: 6
+ID: 14; ArrivalTime: 38; ServiceTime: 2
+ID: 44; ArrivalTime: 40; ServiceTime: 2
+Queue0: [ID: 36; ArrivalTime: 21; ServiceTime: 6
+]
+Queue1: [ID: 84; ArrivalTime: 22; ServiceTime: 1
+, ID: 60; ArrivalTime: 24; ServiceTime: 4
+]
+Queue2: [ID: 65; ArrivalTime: 21; ServiceTime: 1
+, ID: 15; ArrivalTime: 25; ServiceTime: 3
+]
+Queue3: [ID: 44; ArrivalTime: 21; ServiceTime: 1
+, ID: 48; ArrivalTime: 23; ServiceTime: 1
+]
+Queue4: [ID: 32; ArrivalTime: 22; ServiceTime: 2
+]
+
+Current time: 27
+Waiting clients:
+ID: 57; ArrivalTime: 28; ServiceTime: 3
+ID: 96; ArrivalTime: 29; ServiceTime: 5
+ID: 68; ArrivalTime: 32; ServiceTime: 3
+ID: 6; ArrivalTime: 32; ServiceTime: 1
+ID: 68; ArrivalTime: 33; ServiceTime: 7
+ID: 16; ArrivalTime: 36; ServiceTime: 4
+ID: 40; ArrivalTime: 36; ServiceTime: 6
+ID: 90; ArrivalTime: 36; ServiceTime: 6
+ID: 86; ArrivalTime: 37; ServiceTime: 6
+ID: 33; ArrivalTime: 38; ServiceTime: 6
+ID: 68; ArrivalTime: 38; ServiceTime: 3
+ID: 47; ArrivalTime: 38; ServiceTime: 2
+ID: 71; ArrivalTime: 38; ServiceTime: 7
+ID: 24; ArrivalTime: 38; ServiceTime: 5
+ID: 18; ArrivalTime: 38; ServiceTime: 6
+ID: 14; ArrivalTime: 38; ServiceTime: 2
+ID: 44; ArrivalTime: 40; ServiceTime: 2
+Queue0: [ID: 36; ArrivalTime: 21; ServiceTime: 5
+]
+Queue1: [ID: 60; ArrivalTime: 24; ServiceTime: 4
+]
+Queue2: [ID: 15; ArrivalTime: 25; ServiceTime: 3
+]
+Queue3: [ID: 48; ArrivalTime: 23; ServiceTime: 1
+]
+Queue4: [ID: 32; ArrivalTime: 22; ServiceTime: 1
+]
+
+Current time: 28
+Waiting clients:
+ID: 96; ArrivalTime: 29; ServiceTime: 5
+ID: 68; ArrivalTime: 32; ServiceTime: 3
+ID: 6; ArrivalTime: 32; ServiceTime: 1
+ID: 68; ArrivalTime: 33; ServiceTime: 7
+ID: 16; ArrivalTime: 36; ServiceTime: 4
+ID: 40; ArrivalTime: 36; ServiceTime: 6
+ID: 90; ArrivalTime: 36; ServiceTime: 6
+ID: 86; ArrivalTime: 37; ServiceTime: 6
+ID: 33; ArrivalTime: 38; ServiceTime: 6
+ID: 68; ArrivalTime: 38; ServiceTime: 3
+ID: 47; ArrivalTime: 38; ServiceTime: 2
+ID: 71; ArrivalTime: 38; ServiceTime: 7
+ID: 24; ArrivalTime: 38; ServiceTime: 5
+ID: 18; ArrivalTime: 38; ServiceTime: 6
+ID: 14; ArrivalTime: 38; ServiceTime: 2
+ID: 44; ArrivalTime: 40; ServiceTime: 2
+Queue0: [ID: 36; ArrivalTime: 21; ServiceTime: 4
+]
+Queue1: [ID: 60; ArrivalTime: 24; ServiceTime: 3
+]
+Queue2: [ID: 15; ArrivalTime: 25; ServiceTime: 2
+]
+Queue3: [ID: 57; ArrivalTime: 28; ServiceTime: 3
+]
+Queue4:  closed
+
+Current time: 29
+Waiting clients:
+ID: 68; ArrivalTime: 32; ServiceTime: 3
+ID: 6; ArrivalTime: 32; ServiceTime: 1
+ID: 68; ArrivalTime: 33; ServiceTime: 7
+ID: 16; ArrivalTime: 36; ServiceTime: 4
+ID: 40; ArrivalTime: 36; ServiceTime: 6
+ID: 90; ArrivalTime: 36; ServiceTime: 6
+ID: 86; ArrivalTime: 37; ServiceTime: 6
+ID: 33; ArrivalTime: 38; ServiceTime: 6
+ID: 68; ArrivalTime: 38; ServiceTime: 3
+ID: 47; ArrivalTime: 38; ServiceTime: 2
+ID: 71; ArrivalTime: 38; ServiceTime: 7
+ID: 24; ArrivalTime: 38; ServiceTime: 5
+ID: 18; ArrivalTime: 38; ServiceTime: 6
+ID: 14; ArrivalTime: 38; ServiceTime: 2
+ID: 44; ArrivalTime: 40; ServiceTime: 2
+Queue0: [ID: 36; ArrivalTime: 21; ServiceTime: 3
+]
+Queue1: [ID: 60; ArrivalTime: 24; ServiceTime: 2
+]
+Queue2: [ID: 15; ArrivalTime: 25; ServiceTime: 1
+]
+Queue3: [ID: 57; ArrivalTime: 28; ServiceTime: 2
+]
+Queue4: [ID: 96; ArrivalTime: 29; ServiceTime: 5
+]
+
+Current time: 30
+Waiting clients:
+ID: 68; ArrivalTime: 32; ServiceTime: 3
+ID: 6; ArrivalTime: 32; ServiceTime: 1
+ID: 68; ArrivalTime: 33; ServiceTime: 7
+ID: 16; ArrivalTime: 36; ServiceTime: 4
+ID: 40; ArrivalTime: 36; ServiceTime: 6
+ID: 90; ArrivalTime: 36; ServiceTime: 6
+ID: 86; ArrivalTime: 37; ServiceTime: 6
+ID: 33; ArrivalTime: 38; ServiceTime: 6
+ID: 68; ArrivalTime: 38; ServiceTime: 3
+ID: 47; ArrivalTime: 38; ServiceTime: 2
+ID: 71; ArrivalTime: 38; ServiceTime: 7
+ID: 24; ArrivalTime: 38; ServiceTime: 5
+ID: 18; ArrivalTime: 38; ServiceTime: 6
+ID: 14; ArrivalTime: 38; ServiceTime: 2
+ID: 44; ArrivalTime: 40; ServiceTime: 2
+Queue0: [ID: 36; ArrivalTime: 21; ServiceTime: 2
+]
+Queue1: [ID: 60; ArrivalTime: 24; ServiceTime: 1
+]
+Queue2:  closed
+Queue3: [ID: 57; ArrivalTime: 28; ServiceTime: 1
+]
+Queue4: [ID: 96; ArrivalTime: 29; ServiceTime: 4
+]
+
+Current time: 31
+Waiting clients:
+ID: 68; ArrivalTime: 32; ServiceTime: 3
+ID: 6; ArrivalTime: 32; ServiceTime: 1
+ID: 68; ArrivalTime: 33; ServiceTime: 7
+ID: 16; ArrivalTime: 36; ServiceTime: 4
+ID: 40; ArrivalTime: 36; ServiceTime: 6
+ID: 90; ArrivalTime: 36; ServiceTime: 6
+ID: 86; ArrivalTime: 37; ServiceTime: 6
+ID: 33; ArrivalTime: 38; ServiceTime: 6
+ID: 68; ArrivalTime: 38; ServiceTime: 3
+ID: 47; ArrivalTime: 38; ServiceTime: 2
+ID: 71; ArrivalTime: 38; ServiceTime: 7
+ID: 24; ArrivalTime: 38; ServiceTime: 5
+ID: 18; ArrivalTime: 38; ServiceTime: 6
+ID: 14; ArrivalTime: 38; ServiceTime: 2
+ID: 44; ArrivalTime: 40; ServiceTime: 2
+Queue0: [ID: 36; ArrivalTime: 21; ServiceTime: 1
+]
+Queue1:  closed
+Queue2:  closed
+Queue3:  closed
+Queue4: [ID: 96; ArrivalTime: 29; ServiceTime: 3
+]
+
+Current time: 32
+Waiting clients:
+ID: 68; ArrivalTime: 33; ServiceTime: 7
+ID: 16; ArrivalTime: 36; ServiceTime: 4
+ID: 40; ArrivalTime: 36; ServiceTime: 6
+ID: 90; ArrivalTime: 36; ServiceTime: 6
+ID: 86; ArrivalTime: 37; ServiceTime: 6
+ID: 33; ArrivalTime: 38; ServiceTime: 6
+ID: 68; ArrivalTime: 38; ServiceTime: 3
+ID: 47; ArrivalTime: 38; ServiceTime: 2
+ID: 71; ArrivalTime: 38; ServiceTime: 7
+ID: 24; ArrivalTime: 38; ServiceTime: 5
+ID: 18; ArrivalTime: 38; ServiceTime: 6
+ID: 14; ArrivalTime: 38; ServiceTime: 2
+ID: 44; ArrivalTime: 40; ServiceTime: 2
+Queue0: [ID: 68; ArrivalTime: 32; ServiceTime: 3
+]
+Queue1: [ID: 6; ArrivalTime: 32; ServiceTime: 1
+]
+Queue2:  closed
+Queue3:  closed
+Queue4: [ID: 96; ArrivalTime: 29; ServiceTime: 2
+]
+
+Current time: 33
+Waiting clients:
+ID: 16; ArrivalTime: 36; ServiceTime: 4
+ID: 40; ArrivalTime: 36; ServiceTime: 6
+ID: 90; ArrivalTime: 36; ServiceTime: 6
+ID: 86; ArrivalTime: 37; ServiceTime: 6
+ID: 33; ArrivalTime: 38; ServiceTime: 6
+ID: 68; ArrivalTime: 38; ServiceTime: 3
+ID: 47; ArrivalTime: 38; ServiceTime: 2
+ID: 71; ArrivalTime: 38; ServiceTime: 7
+ID: 24; ArrivalTime: 38; ServiceTime: 5
+ID: 18; ArrivalTime: 38; ServiceTime: 6
+ID: 14; ArrivalTime: 38; ServiceTime: 2
+ID: 44; ArrivalTime: 40; ServiceTime: 2
+Queue0: [ID: 68; ArrivalTime: 32; ServiceTime: 2
+]
+Queue1:  closed
+Queue2: [ID: 68; ArrivalTime: 33; ServiceTime: 7
+]
+Queue3:  closed
+Queue4: [ID: 96; ArrivalTime: 29; ServiceTime: 1
+]
+
+Current time: 34
+Waiting clients:
+ID: 16; ArrivalTime: 36; ServiceTime: 4
+ID: 40; ArrivalTime: 36; ServiceTime: 6
+ID: 90; ArrivalTime: 36; ServiceTime: 6
+ID: 86; ArrivalTime: 37; ServiceTime: 6
+ID: 33; ArrivalTime: 38; ServiceTime: 6
+ID: 68; ArrivalTime: 38; ServiceTime: 3
+ID: 47; ArrivalTime: 38; ServiceTime: 2
+ID: 71; ArrivalTime: 38; ServiceTime: 7
+ID: 24; ArrivalTime: 38; ServiceTime: 5
+ID: 18; ArrivalTime: 38; ServiceTime: 6
+ID: 14; ArrivalTime: 38; ServiceTime: 2
+ID: 44; ArrivalTime: 40; ServiceTime: 2
+Queue0: [ID: 68; ArrivalTime: 32; ServiceTime: 1
+]
+Queue1:  closed
+Queue2: [ID: 68; ArrivalTime: 33; ServiceTime: 6
+]
+Queue3:  closed
+Queue4:  closed
+
+Current time: 35
+Waiting clients:
+ID: 16; ArrivalTime: 36; ServiceTime: 4
+ID: 40; ArrivalTime: 36; ServiceTime: 6
+ID: 90; ArrivalTime: 36; ServiceTime: 6
+ID: 86; ArrivalTime: 37; ServiceTime: 6
+ID: 33; ArrivalTime: 38; ServiceTime: 6
+ID: 68; ArrivalTime: 38; ServiceTime: 3
+ID: 47; ArrivalTime: 38; ServiceTime: 2
+ID: 71; ArrivalTime: 38; ServiceTime: 7
+ID: 24; ArrivalTime: 38; ServiceTime: 5
+ID: 18; ArrivalTime: 38; ServiceTime: 6
+ID: 14; ArrivalTime: 38; ServiceTime: 2
+ID: 44; ArrivalTime: 40; ServiceTime: 2
+Queue0:  closed
+Queue1:  closed
+Queue2: [ID: 68; ArrivalTime: 33; ServiceTime: 5
+]
+Queue3:  closed
+Queue4:  closed
+
+Current time: 36
+Waiting clients:
+ID: 86; ArrivalTime: 37; ServiceTime: 6
+ID: 33; ArrivalTime: 38; ServiceTime: 6
+ID: 68; ArrivalTime: 38; ServiceTime: 3
+ID: 47; ArrivalTime: 38; ServiceTime: 2
+ID: 71; ArrivalTime: 38; ServiceTime: 7
+ID: 24; ArrivalTime: 38; ServiceTime: 5
+ID: 18; ArrivalTime: 38; ServiceTime: 6
+ID: 14; ArrivalTime: 38; ServiceTime: 2
+ID: 44; ArrivalTime: 40; ServiceTime: 2
+Queue0: [ID: 90; ArrivalTime: 36; ServiceTime: 6
+]
+Queue1:  closed
+Queue2: [ID: 68; ArrivalTime: 33; ServiceTime: 4
+]
+Queue3: [ID: 16; ArrivalTime: 36; ServiceTime: 4
+]
+Queue4: [ID: 40; ArrivalTime: 36; ServiceTime: 6
+]
+
+Current time: 37
+Waiting clients:
+ID: 33; ArrivalTime: 38; ServiceTime: 6
+ID: 68; ArrivalTime: 38; ServiceTime: 3
+ID: 47; ArrivalTime: 38; ServiceTime: 2
+ID: 71; ArrivalTime: 38; ServiceTime: 7
+ID: 24; ArrivalTime: 38; ServiceTime: 5
+ID: 18; ArrivalTime: 38; ServiceTime: 6
+ID: 14; ArrivalTime: 38; ServiceTime: 2
+ID: 44; ArrivalTime: 40; ServiceTime: 2
+Queue0: [ID: 90; ArrivalTime: 36; ServiceTime: 5
+]
+Queue1: [ID: 86; ArrivalTime: 37; ServiceTime: 6
+]
+Queue2: [ID: 68; ArrivalTime: 33; ServiceTime: 3
+]
+Queue3: [ID: 16; ArrivalTime: 36; ServiceTime: 3
+]
+Queue4: [ID: 40; ArrivalTime: 36; ServiceTime: 5
+]
+
+Current time: 38
+Waiting clients:
+ID: 44; ArrivalTime: 40; ServiceTime: 2
+Queue0: [ID: 90; ArrivalTime: 36; ServiceTime: 4
+, ID: 71; ArrivalTime: 38; ServiceTime: 7
+]
+Queue1: [ID: 86; ArrivalTime: 37; ServiceTime: 5
+, ID: 24; ArrivalTime: 38; ServiceTime: 5
+]
+Queue2: [ID: 68; ArrivalTime: 33; ServiceTime: 2
+, ID: 33; ArrivalTime: 38; ServiceTime: 6
+]
+Queue3: [ID: 16; ArrivalTime: 36; ServiceTime: 2
+, ID: 68; ArrivalTime: 38; ServiceTime: 3
+, ID: 18; ArrivalTime: 38; ServiceTime: 6
+]
+Queue4: [ID: 40; ArrivalTime: 36; ServiceTime: 4
+, ID: 47; ArrivalTime: 38; ServiceTime: 2
+, ID: 14; ArrivalTime: 38; ServiceTime: 2
+]
+
+Current time: 39
+Waiting clients:
+ID: 44; ArrivalTime: 40; ServiceTime: 2
+Queue0: [ID: 90; ArrivalTime: 36; ServiceTime: 3
+, ID: 71; ArrivalTime: 38; ServiceTime: 7
+]
+Queue1: [ID: 86; ArrivalTime: 37; ServiceTime: 4
+, ID: 24; ArrivalTime: 38; ServiceTime: 5
+]
+Queue2: [ID: 68; ArrivalTime: 33; ServiceTime: 1
+, ID: 33; ArrivalTime: 38; ServiceTime: 6
+]
+Queue3: [ID: 16; ArrivalTime: 36; ServiceTime: 1
+, ID: 68; ArrivalTime: 38; ServiceTime: 3
+, ID: 18; ArrivalTime: 38; ServiceTime: 6
+]
+Queue4: [ID: 40; ArrivalTime: 36; ServiceTime: 3
+, ID: 47; ArrivalTime: 38; ServiceTime: 2
+, ID: 14; ArrivalTime: 38; ServiceTime: 2
+]
+
+Current time: 40
+Waiting clients:
+Queue0: [ID: 90; ArrivalTime: 36; ServiceTime: 2
+, ID: 71; ArrivalTime: 38; ServiceTime: 7
+]
+Queue1: [ID: 86; ArrivalTime: 37; ServiceTime: 3
+, ID: 24; ArrivalTime: 38; ServiceTime: 5
+]
+Queue2: [ID: 33; ArrivalTime: 38; ServiceTime: 6
+, ID: 44; ArrivalTime: 40; ServiceTime: 2
+]
+Queue3: [ID: 68; ArrivalTime: 38; ServiceTime: 3
+, ID: 18; ArrivalTime: 38; ServiceTime: 6
+]
+Queue4: [ID: 40; ArrivalTime: 36; ServiceTime: 2
+, ID: 47; ArrivalTime: 38; ServiceTime: 2
+, ID: 14; ArrivalTime: 38; ServiceTime: 2
+]
+
+Current time: 41
+Waiting clients:
+Queue0: [ID: 90; ArrivalTime: 36; ServiceTime: 1
+, ID: 71; ArrivalTime: 38; ServiceTime: 7
+]
+Queue1: [ID: 86; ArrivalTime: 37; ServiceTime: 2
+, ID: 24; ArrivalTime: 38; ServiceTime: 5
+]
+Queue2: [ID: 33; ArrivalTime: 38; ServiceTime: 5
+, ID: 44; ArrivalTime: 40; ServiceTime: 2
+]
+Queue3: [ID: 68; ArrivalTime: 38; ServiceTime: 2
+, ID: 18; ArrivalTime: 38; ServiceTime: 6
+]
+Queue4: [ID: 40; ArrivalTime: 36; ServiceTime: 1
+, ID: 47; ArrivalTime: 38; ServiceTime: 2
+, ID: 14; ArrivalTime: 38; ServiceTime: 2
+]
+
+Current time: 42
+Waiting clients:
+Queue0: [ID: 71; ArrivalTime: 38; ServiceTime: 7
+]
+Queue1: [ID: 86; ArrivalTime: 37; ServiceTime: 1
+, ID: 24; ArrivalTime: 38; ServiceTime: 5
+]
+Queue2: [ID: 33; ArrivalTime: 38; ServiceTime: 4
+, ID: 44; ArrivalTime: 40; ServiceTime: 2
+]
+Queue3: [ID: 68; ArrivalTime: 38; ServiceTime: 1
+, ID: 18; ArrivalTime: 38; ServiceTime: 6
+]
+Queue4: [ID: 47; ArrivalTime: 38; ServiceTime: 2
+, ID: 14; ArrivalTime: 38; ServiceTime: 2
+]
+
+Current time: 43
+Waiting clients:
+Queue0: [ID: 71; ArrivalTime: 38; ServiceTime: 6
+]
+Queue1: [ID: 24; ArrivalTime: 38; ServiceTime: 5
+]
+Queue2: [ID: 33; ArrivalTime: 38; ServiceTime: 3
+, ID: 44; ArrivalTime: 40; ServiceTime: 2
+]
+Queue3: [ID: 18; ArrivalTime: 38; ServiceTime: 6
+]
+Queue4: [ID: 47; ArrivalTime: 38; ServiceTime: 1
+, ID: 14; ArrivalTime: 38; ServiceTime: 2
+]
+
+Current time: 44
+Waiting clients:
+Queue0: [ID: 71; ArrivalTime: 38; ServiceTime: 5
+]
+Queue1: [ID: 24; ArrivalTime: 38; ServiceTime: 4
+]
+Queue2: [ID: 33; ArrivalTime: 38; ServiceTime: 2
+, ID: 44; ArrivalTime: 40; ServiceTime: 2
+]
+Queue3: [ID: 18; ArrivalTime: 38; ServiceTime: 5
+]
+Queue4: [ID: 14; ArrivalTime: 38; ServiceTime: 2
+]
+
+Current time: 45
+Waiting clients:
+Queue0: [ID: 71; ArrivalTime: 38; ServiceTime: 4
+]
+Queue1: [ID: 24; ArrivalTime: 38; ServiceTime: 3
+]
+Queue2: [ID: 33; ArrivalTime: 38; ServiceTime: 1
+, ID: 44; ArrivalTime: 40; ServiceTime: 2
+]
+Queue3: [ID: 18; ArrivalTime: 38; ServiceTime: 4
+]
+Queue4: [ID: 14; ArrivalTime: 38; ServiceTime: 1
+]
+
+Current time: 46
+Waiting clients:
+Queue0: [ID: 71; ArrivalTime: 38; ServiceTime: 3
+]
+Queue1: [ID: 24; ArrivalTime: 38; ServiceTime: 2
+]
+Queue2: [ID: 44; ArrivalTime: 40; ServiceTime: 2
+]
+Queue3: [ID: 18; ArrivalTime: 38; ServiceTime: 3
+]
+Queue4:  closed
+
+Current time: 47
+Waiting clients:
+Queue0: [ID: 71; ArrivalTime: 38; ServiceTime: 2
+]
+Queue1: [ID: 24; ArrivalTime: 38; ServiceTime: 1
+]
+Queue2: [ID: 44; ArrivalTime: 40; ServiceTime: 1
+]
+Queue3: [ID: 18; ArrivalTime: 38; ServiceTime: 2
+]
+Queue4:  closed
+
+Current time: 48
+Waiting clients:
+Queue0: [ID: 71; ArrivalTime: 38; ServiceTime: 1
+]
+Queue1:  closed
+Queue2:  closed
+Queue3: [ID: 18; ArrivalTime: 38; ServiceTime: 1
+]
+Queue4:  closed
+
+Waiting clients:
+Queue0:  closed
+Queue1:  closed
+Queue2:  closed
+Queue3:  closed
+Queue4:  closed
+
+Average waitingTime=11.02
+Average serviceTime=4.0
+PeakHour=38

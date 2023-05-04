@@ -1,0 +1,225 @@
+
+Waiting clients:
+
+Average waitingTime=NaN
+Average serviceTime=NaN
+PeakHour=0
+
+Current time: 1
+Waiting clients:
+ID: 17; ArrivalTime: 4; ServiceTime: 4
+ID: 23; ArrivalTime: 4; ServiceTime: 3
+ID: 34; ArrivalTime: 16; ServiceTime: 3
+ID: 18; ArrivalTime: 29; ServiceTime: 2
+Queue0:  closed
+Queue1:  closed
+
+Current time: 2
+Waiting clients:
+ID: 17; ArrivalTime: 4; ServiceTime: 4
+ID: 23; ArrivalTime: 4; ServiceTime: 3
+ID: 34; ArrivalTime: 16; ServiceTime: 3
+ID: 18; ArrivalTime: 29; ServiceTime: 2
+Queue0:  closed
+Queue1:  closed
+
+Current time: 3
+Waiting clients:
+ID: 17; ArrivalTime: 4; ServiceTime: 4
+ID: 23; ArrivalTime: 4; ServiceTime: 3
+ID: 34; ArrivalTime: 16; ServiceTime: 3
+ID: 18; ArrivalTime: 29; ServiceTime: 2
+Queue0:  closed
+Queue1:  closed
+
+Current time: 4
+Waiting clients:
+ID: 34; ArrivalTime: 16; ServiceTime: 3
+ID: 18; ArrivalTime: 29; ServiceTime: 2
+Queue0: [ID: 17; ArrivalTime: 4; ServiceTime: 4
+]
+Queue1: [ID: 23; ArrivalTime: 4; ServiceTime: 3
+]
+
+Current time: 5
+Waiting clients:
+ID: 34; ArrivalTime: 16; ServiceTime: 3
+ID: 18; ArrivalTime: 29; ServiceTime: 2
+Queue0: [ID: 17; ArrivalTime: 4; ServiceTime: 3
+]
+Queue1: [ID: 23; ArrivalTime: 4; ServiceTime: 2
+]
+
+Current time: 6
+Waiting clients:
+ID: 34; ArrivalTime: 16; ServiceTime: 3
+ID: 18; ArrivalTime: 29; ServiceTime: 2
+Queue0: [ID: 17; ArrivalTime: 4; ServiceTime: 2
+]
+Queue1: [ID: 23; ArrivalTime: 4; ServiceTime: 1
+]
+
+Current time: 7
+Waiting clients:
+ID: 34; ArrivalTime: 16; ServiceTime: 3
+ID: 18; ArrivalTime: 29; ServiceTime: 2
+Queue0: [ID: 17; ArrivalTime: 4; ServiceTime: 1
+]
+Queue1:  closed
+
+Current time: 8
+Waiting clients:
+ID: 34; ArrivalTime: 16; ServiceTime: 3
+ID: 18; ArrivalTime: 29; ServiceTime: 2
+Queue0:  closed
+Queue1:  closed
+
+Current time: 9
+Waiting clients:
+ID: 34; ArrivalTime: 16; ServiceTime: 3
+ID: 18; ArrivalTime: 29; ServiceTime: 2
+Queue0:  closed
+Queue1:  closed
+
+Current time: 10
+Waiting clients:
+ID: 34; ArrivalTime: 16; ServiceTime: 3
+ID: 18; ArrivalTime: 29; ServiceTime: 2
+Queue0:  closed
+Queue1:  closed
+
+Current time: 11
+Waiting clients:
+ID: 34; ArrivalTime: 16; ServiceTime: 3
+ID: 18; ArrivalTime: 29; ServiceTime: 2
+Queue0:  closed
+Queue1:  closed
+
+Current time: 12
+Waiting clients:
+ID: 34; ArrivalTime: 16; ServiceTime: 3
+ID: 18; ArrivalTime: 29; ServiceTime: 2
+Queue0:  closed
+Queue1:  closed
+
+Current time: 13
+Waiting clients:
+ID: 34; ArrivalTime: 16; ServiceTime: 3
+ID: 18; ArrivalTime: 29; ServiceTime: 2
+Queue0:  closed
+Queue1:  closed
+
+Current time: 14
+Waiting clients:
+ID: 34; ArrivalTime: 16; ServiceTime: 3
+ID: 18; ArrivalTime: 29; ServiceTime: 2
+Queue0:  closed
+Queue1:  closed
+
+Current time: 15
+Waiting clients:
+ID: 34; ArrivalTime: 16; ServiceTime: 3
+ID: 18; ArrivalTime: 29; ServiceTime: 2
+Queue0:  closed
+Queue1:  closed
+
+Current time: 16
+Waiting clients:
+ID: 18; ArrivalTime: 29; ServiceTime: 2
+Queue0: [ID: 34; ArrivalTime: 16; ServiceTime: 3
+]
+Queue1:  closed
+
+Current time: 17
+Waiting clients:
+ID: 18; ArrivalTime: 29; ServiceTime: 2
+Queue0: [ID: 34; ArrivalTime: 16; ServiceTime: 2
+]
+Queue1:  closed
+
+Current time: 18
+Waiting clients:
+ID: 18; ArrivalTime: 29; ServiceTime: 2
+Queue0: [ID: 34; ArrivalTime: 16; ServiceTime: 1
+]
+Queue1:  closed
+
+Current time: 19
+Waiting clients:
+ID: 18; ArrivalTime: 29; ServiceTime: 2
+Queue0:  closed
+Queue1:  closed
+
+Current time: 20
+Waiting clients:
+ID: 18; ArrivalTime: 29; ServiceTime: 2
+Queue0:  closed
+Queue1:  closed
+
+Current time: 21
+Waiting clients:
+ID: 18; ArrivalTime: 29; ServiceTime: 2
+Queue0:  closed
+Queue1:  closed
+
+Current time: 22
+Waiting clients:
+ID: 18; ArrivalTime: 29; ServiceTime: 2
+Queue0:  closed
+Queue1:  closed
+
+Current time: 23
+Waiting clients:
+ID: 18; ArrivalTime: 29; ServiceTime: 2
+Queue0:  closed
+Queue1:  closed
+
+Current time: 24
+Waiting clients:
+ID: 18; ArrivalTime: 29; ServiceTime: 2
+Queue0:  closed
+Queue1:  closed
+
+Current time: 25
+Waiting clients:
+ID: 18; ArrivalTime: 29; ServiceTime: 2
+Queue0:  closed
+Queue1:  closed
+
+Current time: 26
+Waiting clients:
+ID: 18; ArrivalTime: 29; ServiceTime: 2
+Queue0:  closed
+Queue1:  closed
+
+Current time: 27
+Waiting clients:
+ID: 18; ArrivalTime: 29; ServiceTime: 2
+Queue0:  closed
+Queue1:  closed
+
+Current time: 28
+Waiting clients:
+ID: 18; ArrivalTime: 29; ServiceTime: 2
+Queue0:  closed
+Queue1:  closed
+
+Current time: 29
+Waiting clients:
+Queue0:  closed
+Queue1: [ID: 18; ArrivalTime: 29; ServiceTime: 2
+]
+
+Current time: 30
+Waiting clients:
+Queue0:  closed
+Queue1: [ID: 18; ArrivalTime: 29; ServiceTime: 1
+]
+
+Waiting clients:
+Queue0:  closed
+Queue1:  closed
+
+Average waitingTime=3.5
+Average serviceTime=3.0
+PeakHour=4
