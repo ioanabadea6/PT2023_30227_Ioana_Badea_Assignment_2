@@ -85,7 +85,7 @@ public class SimulationManager implements Runnable{
 		}
 	}
 	
-	public synchronized void run() 	{
+	public void run() 	{
 		scheduler = new Scheduler(numberOfServers, numberOfClients);
 		int currentTime = 0;
 		
@@ -137,7 +137,6 @@ public class SimulationManager implements Runnable{
 			System.out.println(s);
 			
 			
-			
 			if(peakHour<peakTime()) {
 				peakHour=peakTime();
 				second=currentTime;
@@ -182,9 +181,11 @@ public class SimulationManager implements Runnable{
 		file.append("\nAverage waitingTime="+ (float)wait/numberOfClients +"\n");
 		System.out.println("Average waitingTime="+ (float)wait/numberOfClients +"\n");
 		frame.setGeneratedClients("Average waitingTime="+ (float)wait/numberOfClients +"\n");
+		
 		file.append("Average serviceTime="+ (float)serviceTime/numberOfClients2 +"\n");
 		System.out.println("Average serviceTime="+ (float)serviceTime/numberOfClients2 +"\n");
 		frame.setGeneratedClients("Average serviceTime="+ (float)serviceTime/numberOfClients2 +"\n");
+		
 		file.append("PeakHour=" + second + "\n");
 		System.out.println("PeakHour=" + second + "\n");
 		frame.setGeneratedClients("PeakHour=" + second + "\n");

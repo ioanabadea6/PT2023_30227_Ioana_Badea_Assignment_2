@@ -28,7 +28,7 @@ public class Server implements Runnable {
 	public void addTask(Task newTask) {
 		
 		waitingPerPerson.getAndAdd(waitingPeriod.get());
-		waitingPeriod.addAndGet(1);
+		waitingPeriod.addAndGet(newTask.getServiceTime());
 		tasks.add(newTask);
 	}
 
@@ -41,10 +41,13 @@ public class Server implements Runnable {
 	}
 
 	@Override
-	public synchronized void run() {
-		while (isOpen()) {
+	public void run() {
+		while (true) {
+			//System.out.println("da\n");
+
 			//Task task =tasks.peek() ;
 			while(tasks.peek() != null) {
+				//System.out.println("da\n");
 				try {
 					Thread.sleep(500);
 				waitingPeriod.addAndGet(-tasks.peek().getServiceTime());
@@ -56,6 +59,7 @@ public class Server implements Runnable {
 				
 					Thread.sleep(500);
 				} catch (InterruptedException e) {
+					System.out.println("da\n");
 					// TODO Auto-generated catch block
 					Thread.currentThread().interrupt();
 

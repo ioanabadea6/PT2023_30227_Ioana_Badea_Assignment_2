@@ -21,13 +21,15 @@ public class Scheduler {
 		this.threads = new ArrayList<Thread>();
 		this.setMaxNoServers(maxNoServers);
 		this.setMaxTasksPerServer(maxTasksPerServer);
+		System.out.println(maxNoServers);
 		for(int i=0; i<maxNoServers; i++) {
 			Server server = new Server();
 			servers.add(server);
-			server.setOpen(false);
-			Thread thread = new Thread(server, "Q" + (i+1));
+			server.setOpen(true);
+			Thread thread = new Thread(servers.get(i), "Q" + (i+1));
+			thread.start();
 			threads.add(thread);
-			threads.get(i).start();		
+			//threads.get(i).start();		
 		}
 	}
 	
@@ -60,9 +62,10 @@ public class Scheduler {
 		servers.get(queue).getWaitingPeriod().getAndAdd(t.getServiceTime());
 		servers.get(queue).setOpen(true);
 		servers.get(queue).addTask(t);
-		Thread thread = new Thread(servers.get(queue), "Q" + (queue+1));
-		threads.add(thread);
-		thread.start();	
+//		Thread thread = new Thread(servers.get(queue), "Q" + (queue+1));
+//		threads.add(thread);
+//		thread.start();	
+		
 	}
 	
 	public List<Server> getServers(){
