@@ -34,14 +34,14 @@ public class SimulationManager implements Runnable{
 
 	private StringBuilder file;
 
-	public SimulationManager() {
+	public SimulationManager(SimulationFrame frame) {
 		scheduler = new Scheduler(numberOfServers, numberOfClients);
 		generatedTasks = new ArrayList<Task>(numberOfClients);
 		this.file = new StringBuilder();
 		
-		
+		this.frame=frame;
 
-		frame = new SimulationFrame();
+	//	frame = new SimulationFrame();
 
 		this.frame.addStartListener(new startListener());
 		this.frame.addStopListener(new stopListener());
@@ -77,7 +77,7 @@ public class SimulationManager implements Runnable{
 	
 	public static void writeFile(String s) {
 		try {
-			FileWriter fw = new FileWriter("result3.txt");
+			FileWriter fw = new FileWriter("result4.txt");
 			fw.write(s);
 			fw.close();
 		} catch (IOException e) {
@@ -97,6 +97,16 @@ public class SimulationManager implements Runnable{
 		
 		
 		while(currentTime < timeLimit && (!(generatedTasks.isEmpty()) || scheduler.emptyServers())){
+			for(Server server: scheduler.getServers()) {
+				for(Task task: server.getTasks()) {
+					task.setServiceTime(task.getServiceTime()-1);
+					if(task.getServiceTime()==0) {
+						server.getTasks().remove(task);
+					}
+				}
+			}
+			
+			
 			currentTime++;
 			
 			while (!generatedTasks.isEmpty() && generatedTasks.get(0).getArrivalTime() == currentTime) {
@@ -106,8 +116,11 @@ public class SimulationManager implements Runnable{
 					numberOfClients2++;
 				}
 				generatedTasks.remove(0);
+				
+				
 			}
-
+			
+			
 						
 			String s = "";
 			s += "\n";
@@ -149,27 +162,28 @@ public class SimulationManager implements Runnable{
 			}
 			
 		}
-		String r = "";
-		r += "\n";
-		r += "Waiting clients:\n";
-		
-		file.append("\n");
-		file.append("Waiting clients:\n");
 
-		for (int i = 0; i < generatedTasks.size(); i++) {
-			r += generatedTasks.get(i).toString() + " ";
-			file.append(generatedTasks.get(i).toString());
-		}
-		
-		for (int j = 0; j < scheduler.getServers().size(); j++) {
-			r += "Queue" + j + ": ";
-			r += scheduler.getServers().get(j);
-			
-			file.append("Queue" + j + ": ");
-			file.append(scheduler.getServers().get(j));		
-		}
-		System.out.println(r);
-		frame.setGeneratedClients(r);
+//		String r = "";
+//		r += "\n";
+//		r += "Waiting clients:\n";
+//		
+//		file.append("\n");
+//		file.append("Waiting clients:\n");
+//
+//		for (int i = 0; i < generatedTasks.size(); i++) {
+//			r += generatedTasks.get(i).toString() + " ";
+//			file.append(generatedTasks.get(i).toString());
+//		}
+//		
+//		for (int j = 0; j < scheduler.getServers().size(); j++) {
+//			r += "Queue" + j + ": ";
+//			r += scheduler.getServers().get(j);
+//			
+//			file.append("Queue" + j + ": ");
+//			file.append(scheduler.getServers().get(j));		
+//		}
+//		System.out.println(r);
+//		frame.setGeneratedClients(r);
 		
 		scheduler.stopThreads();
 		
@@ -228,8 +242,9 @@ public class SimulationManager implements Runnable{
 	
 				frame.setResult(result);
 				
+				Thread t = new Thread();
+				t.start();
 				
-
 			} catch (Exception exception) {
 				frame.showErrorMessage("WRONG INPUT!");
 			}
@@ -251,7 +266,7 @@ public class SimulationManager implements Runnable{
 	class submitListener implements ActionListener {
 		public void actionPerformed(ActionEvent e) {
 			try {
-				run();
+			//	run();
 			} catch (Exception exception) {
 				frame.showErrorMessage("WRONG!");
 			}
@@ -259,9 +274,18 @@ public class SimulationManager implements Runnable{
 	}
 
 	public static void main(String[] args) {
-		SimulationManager gen = new SimulationManager();
-		Thread t = new Thread(gen);
+		SimulationFrame frame = new SimulationFrame();
+		
+		SimulationManager sim = new SimulationManager(frame);
+		Thread t = new Thread(sim);
+		try {
+			t.sleep(20000);
+		} catch (InterruptedException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
 		t.start();
+
 
 	}
 }
